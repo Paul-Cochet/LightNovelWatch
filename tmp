@@ -1,0 +1,3070 @@
+
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8"/>
+    <title>Discovering Magic | Royal Road</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    
+    
+    <meta name="keywords" content="Discovering Magic; Signspace13; free books online; web fiction; free; book; novel; royal road; royalroadl; rrl; legends; fiction">
+    <meta name="description" content="&#x201C;Venture into your mind and into a new world, one where there is Magic. Magic that is nascent and unexplained, one where you can be the one to Discover (...)">
+    <meta property="fb:app_id" content="1585608748421060"/>
+    <meta property="og:type" content="books.book">
+    <meta property="og:url" content="https://www.royalroad.com/fiction/26899/discovering-magic">
+    <meta property="og:image" content="https://www.royalroadcdn.com/public/covers-full/26899-discovering-magic.jpg">
+    <meta property="og:site_name" content="Royal Road">
+    <meta property="og:description" content="&#x201C;Venture into your mind and into a new world, one where there is Magic. Magic that is nascent and unexplained, one where you can be the one to Discover it, by delving dark dungeons or examining magical Beasts, by studying ancient scrolls or by finding lost gods, your Imagination is the only limit.&#x201D;&#xA;This is what Mike thought he was getting into when (...)">
+    <meta property="books:rating:value" content="4.254925"/>
+    <meta property="books:rating:scale" content="5"/>
+    <meta property="books:author" content="Signspace13"/>
+    <meta property="books:isbn" content=""/>
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@RoyalRoadL">
+    <meta name="twitter:creator" content="Signspace13">
+    <meta name="twitter:title" content="Discovering Magic">
+    <meta name="twitter:description" content="&#x201C;Venture into your mind and into a new world, one where there is Magic. Magic that is nascent and unexplained, one where you can be the one to Discover it, by delving dark dungeons or examining magical (...)">
+    <meta name="twitter:image" content="https://www.royalroadcdn.com/public/covers-full/26899-discovering-magic.jpg">
+    <link rel="canonical" href="https://www.royalroad.com/fiction/26899/discovering-magic"/>
+    <link rel="alternate" type="application/rss+xml" title="Updates for Discovering Magic" href="/syndication/26899"/>
+
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="/Content/Themes/Styles/main-bundle.min.css?v=YkdYAmI9szIJgjYAyoJacUEAqNXcv-ohtvRzaQEOAKU" />
+    <link type="text/css" rel="stylesheet" href="/Content/fonts/FontAwesome5/5.13/css/all.min.css?v=DjbUjEiuM4tczO997cVF1zbf91BC9OzycscGGk_ZKks" />
+    <link type="text/css" rel="stylesheet" href="/dist/site-light.css?v=h8QE-Ni3NdCfkHPQtCdUBY0zsxHkbpAhkr_odsvkOSc" />
+    
+    <style>
+    </style>
+
+    <link rel="icon" href="/icons/android-chrome-192x192.png?v=20200125" sizes="192x192" />
+    <link rel="shortcut icon" href="/icons/favicon.ico?v=20200125" sizes="16x16 24x24 32x32"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-icon-180x180.png?v=20200125">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png?v=20200125">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png?v=20200125">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/icons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#FFFFFF">
+            
+    <script src="https://browser.sentry-cdn.com/6.2.5/bundle.tracing.min.js" integrity="sha384-xd/W0P7puokZpoEqk4srLDzK5R0WV2B2IZVlA0T4MEU4Fojxk+o+5KF6u43wkTL6" crossorigin="anonymous"></script>
+<script>(typeof(Sentry) !== 'undefined'||document.write("\u003Cscript src=\u0022/Scripts/Plugins/sentry/bundle.tracing.6.2.5.min.js\u0022 integrity=\u0022sha384-xd/W0P7puokZpoEqk4srLDzK5R0WV2B2IZVlA0T4MEU4Fojxk\u002Bo\u002B5KF6u43wkTL6\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+    <script>
+
+        Sentry.init({
+            dsn: 'https://c10809069460409c9aaae4d927c5baf4@santry.royalroad.com/4',
+            release: '4.1.20210427.2',
+            environment: "Production",
+            debug: false,
+            integrations: [
+                new Sentry.Integrations.BrowserTracing({
+                    beforeNavigate: function(context) {
+                        context.name = "Fictions.Index";
+                        return context;
+                    },
+                })
+            ],
+            tracesSampleRate: 0.01,
+            ignoreErrors: [
+                // Random plugins/extensions
+                'top.GLOBALS',
+                // See: http://blog.errorception.com/2012/03/tale-of-unfindable-js-error.html
+                "originalCreateNotification",
+                "canvas.contentDocument",
+                "MyApp_RemoveAllHighlights",
+                "http://tt.epicplay.com",
+                "Can't find variable: ZiteReader",
+                "jigsaw is not defined",
+                "ComboSearch is not defined",
+                "http://loading.retry.widdit.com/",
+                "atomicFindClose",
+                // Facebook borked
+                "fb_xd_fragment",
+                // ISP "optimizing" proxy - `Cache-Control: no-transform` seems to reduce this.
+                // See http://stackoverflow.com/questions/4113268
+                "bmi_SafeAddOnload",
+                "EBCallBackMessageReceived",
+                // See http://toolbar.conduit.com/Developer/HtmlAndGadget/Methods/JSInjection.aspx
+                "conduitPage",
+                // JS unload error
+                "Can't execute code from a freed script",
+                // GA
+                'gtag is not defined',
+                'ga is not defined',
+                "Can't find variable: ga",
+                "gtag",
+                // Safari private tabs
+                "QuotaExceededError",
+                // Firebase
+                "messaging/permission-blocked",
+                "messaging/permission-default",
+                "installations/app-offline",
+                "FirebaseError: Messaging: The notification permission was not granted and blocked instead. (messaging/permission-blocked).",
+                "User denied permission to use the Push API",
+                'ResizeObserver loop limit exceeded',
+                'SecurityError',
+                'WebFont',
+                'AbortError',
+                'Can\'t find variable: article',
+                'Can\'t find variable: Locstor',
+                'Can\'t find variable: ext',
+                'googlesyndication',
+                'navigator.serviceWorker',
+                'Failed to fetch'
+            ],
+            allowUrls: [
+                /^https?:\/\/((cdn|www)\.)?royalroad\.com\/(Scripts|dist|author-dashboard|js)/i,
+                /^https?:\/\/((cdn|www)\.)?royalroadcdn\.com/i,
+                /^https?:\/\/localhost/i
+            ],
+            denyUrls: [
+                // Facebook flakiness
+                /graph\.facebook\.com/i,
+                // Facebook blocked
+                /connect\.facebook\.net\/en_US\/all\.js/i,
+                // Woopra flakiness
+                /eatdifferent\.com\.woopra-ns\.com/i,
+                /static\.woopra\.com\/js\/woopra\.js/i,
+                // Chrome extensions
+                /extensions\//i,
+                /^chrome:\/\//i,
+                // Cloudflare blocked
+                /\/cdn-cgi\/bm\/cv\/result/gi,
+                // Other plugins
+                /127\.0\.0\.1:4001\/isrunning/i, // Cacaoweb
+                /webappstoolbarba\.texthelp\.com\//i,
+                /metrics\.itunes\.apple\.com\.edgesuite\.net\//i,
+            ]
+        });
+    </script>
+    <link type="text/css" rel="stylesheet" href="/dist/site.css?v=f-x_fZ-b7TDFAXBzyZbtzOevuyl2uhd1A4XwFXlnRJI">
+    <script src="/Scripts/Plugins/jquery/jquery-3.5.1.min.js?v=9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0"></script>
+    <script src="/Scripts/Plugins/bootstrap/dist/bootstrap.min.js?v=nuL8_2cJ5NDSSwnKD8VqreErSWHtnEP9E7AySL-1ev4"></script>
+    <script type="text/javascript" src="https://polyfill.io/v3/polyfill.min.js?features=default%2Ces6"></script>
+<script>('WeakMap' in window && 'IntersectionObserver' in window && 'assign' in Object && 'fetch' in window||document.write("\u003Cscript type=\u0022text/javascript\u0022 src=\u0022/dist/polyfill.js?v=3bDFL8-w7mECy4M_hTDx3ZLFmgb5558mVV0uLqF5fFs\u0022\u003E\u003C/script\u003E"));</script>
+<script type="text/javascript">var AdblockPlus=new function(){this.detect=function(n,e){var o=!1,r=2,c=!1,t=!1;if("function"==typeof e){n+="?ch=*&rn=*";var a=11*Math.random(),i=new Image;i.onload=u,i.onerror=function(){c=!0,u()},i.src=n.replace(/\*/,1).replace(/\*/,a);var f=new Image;f.onload=u,f.onerror=function(){t=!0,u()},f.src=n.replace(/\*/,2).replace(/\*/,a),function n(e,c){0==r||c>1e3?e(0==r&&o):setTimeout(function(){n(e,2*c)},2*c)}(e,250)}function u(){--r||(o=!c&&t)}}};</script><script type="text/javascript">window['nitroAds'] = window['nitroAds'] || { createAd: function () { window.nitroAds.queue.push(["createAd", arguments]) }, queue: [] };</script><script async="async" src="https://s.nitropay.com/ads-137.js" type="text/javascript"></script><script async="async" src="https://s.nitropay.com/aan-137.js" type="text/javascript"></script><script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="page-container-bg-solid light-theme">
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49828272-1"></script>
+<script>        
+        function createGa() {
+            function adBlockEnabled() {
+                var ad = document.createElement('ins');
+                ad.className = 'AdSense';
+                ad.style.display = 'block';
+                ad.style.position = 'absolute';
+                ad.style.top = '-1px';
+                ad.style.height = '1px';
+                document.body.appendChild(ad);
+                var isAdBlockEnabled = !ad.clientHeight;
+                document.body.removeChild(ad);
+                return isAdBlockEnabled;
+            }
+        
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('set', {
+                "dimension4": adBlockEnabled()
+            });
+    
+            gtag('set', {"dimension5":"NotLoggedIn","dimension6":"NitroPay"});
+            
+    gtag('set', {
+    'dimension1': '26899'
+    });
+
+            function getCookie(name) {
+                var value = "; " + document.cookie;
+                var parts = value.split("; " + name + "=");
+                if (parts.length == 2) return parts.pop().split(";").shift();
+            }
+            if (!getCookie("euconsent")) {
+                gtag('set', { 'anonymize_ip': true });
+            }    
+            gtag('config', 'UA-49828272-1');
+        }
+
+        createGa();
+    </script>
+<div class="background-overlay"></div>
+<div class="page-header">
+    <!-- BEGIN HEADER TOP -->
+<div class="page-header-top">
+    <div class="container">
+        <!-- BEGIN LOGO -->
+        <div class="page-logo">
+            <a href="/home">
+                <img src="/Content/Images/logo/rr-logo-gold-white-small-min.png" alt="Royal Road" title="Royal Road" class="logo-default">
+            </a>
+        </div>
+        <!-- END LOGO -->
+        <!-- BEGIN RESPONSIVE MENU TOGGLER -->
+        <a href="javascript:;" class="menu-toggler" aria-label="Toggle Menu" role="button"></a>
+        <!-- END RESPONSIVE MENU TOGGLER -->
+        <!-- BEGIN TOP NAVIGATION MENU -->
+        <div class="top-menu">
+            <ul class="nav navbar-nav pull-right">
+                <!-- BEGIN NOTIFICATION DROPDOWN -->
+                <li class="dropdown dropdown-extended dropdown-notification dropdown-dark" id="header_notification_bar">
+                    <a href="javascript:;" class="dropdown-toggle notifications" data-toggle="dropdown" data-close-others="true" aria-label="Notifications">
+                            <i class="fal fa-bell"></i>
+                        <span class="badge badge-default alert no-announcement" data-count="0" style="display:none">0</span>
+                    </a>
+                    <ul class="dropdown-menu notifications">
+                        <li class="external">
+                            <h3>
+                                You have
+                                <strong><span class="nr-announcement">no</span> pending</strong> notifications
+                            </h3>
+                            <a href="/notifications/list">View all</a>
+                        </li>
+                        <li>
+                            <ul class="dropdown-menu-list scroller" style="height: 250px;" data-handle-color="#637283">
+                                <li style="overflow: hidden">
+                                    <div class="loader spinner">Loading...</div>
+                                </li>
+                            </ul>
+                        </li>
+                            <li class="font-sm text-center external">
+                                <div>
+                                </div>
+                            </li>
+                    </ul>
+                </li>
+                <!-- END NOTIFICATION DROPDOWN -->
+
+                    <li>
+                        <a href="https://www.royalroad.com/account/login?returnUrl=https%3A%2F%2Fwww.royalroad.com%2Ffiction%2F26899%2Fdiscovering-magic">
+                            <i class="icon-login"></i> Log In
+                        </a>
+                    </li>
+            </ul>
+        </div>
+        <!-- END TOP NAVIGATION MENU -->
+    </div>
+</div>
+<!-- END HEADER TOP -->
+    <div class="page-header-menu">
+        <div class="container">
+            <form class="search-form" action="/fictions/search" method="GET">
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Search" name="title" aria-label="Fiction search">
+                    <span class="input-group-btn">
+                        <a href="javascript:;" class="btn submit" aria-label="Search" role="button">
+                            <i class="far fa-search"></i>
+                        </a>
+                        <a href="/fictions/search?advanced=True" class="btn btn-icon-only btn-primary popovers adv-search" data-trigger="hover" data-container="body" data-placement="bottom" data-content="Advanced Search" aria-label="Advanced Search">
+                            <i class="fa fa-list"></i>
+                        </a>
+                    </span>
+                </div>
+            </form>
+            <div class="hor-menu">
+    <ul class="nav navbar-nav">
+            <li class="dropdown menu-dropdown classic-menu-dropdown ">
+                <a href="javascript:;"  aria-label="Read" role="button" aria-expanded=false aria-haspopup=true data-toggle=dropdown class=dropdown-toggle>
+                    <i class="fa fa-book"></i> Read
+                        <span class="arrow"></span>
+                </a>
+
+                    <ul class="dropdown-menu pull-left">
+                            <li class=" ">
+                                <a href="/fictions/best-rated" class="nav-link  ">
+                                    <i class="fa fa-trophy"></i> Best Rated
+                                </a>
+                            </li>
+                            <li class=" ">
+                                <a href="/fictions/active-popular" class="nav-link  ">
+                                    <i class="fa fa-fire"></i> Ongoing Fictions
+                                </a>
+                            </li>
+                            <li class=" ">
+                                <a href="/fictions/complete" class="nav-link  ">
+                                    <i class="fa fa-flag-checkered"></i> Complete
+                                </a>
+                            </li>
+                            <li class=" ">
+                                <a href="/fictions/weekly-popular" class="nav-link  ">
+                                    <i class="fa fa-chart-line"></i> Popular this week
+                                </a>
+                            </li>
+                            <li class=" ">
+                                <a href="/fictions/latest-updates" class="nav-link  ">
+                                    <i class="fa fa-clock"></i> Latest Updates
+                                </a>
+                            </li>
+                            <li class=" ">
+                                <a href="/fictions/new-releases" class="nav-link  ">
+                                    <i class="fa fa-sync"></i> New Releases
+                                </a>
+                            </li>
+                            <li class=" ">
+                                <a href="/fictions/trending" class="nav-link  ">
+                                    <i class="fa fa-chevron-up"></i> Trending
+                                </a>
+                            </li>
+                            <li class=" ">
+                                <a href="/fictions/search" class="nav-link  ">
+                                    <i class="fa fa-search"></i> Search
+                                </a>
+                            </li>
+                            <li class=" ">
+                                <a href="/fiction/random" class="nav-link  ">
+                                    <i class="fa fa-random"></i> Surprise me!
+                                </a>
+                            </li>
+                    </ul>
+            </li>
+            <li class="dropdown menu-dropdown classic-menu-dropdown ">
+                <a href="/my/fictions"  aria-label="Write" role="link" >
+                    <i class="fa fa-pencil"></i> Write
+                </a>
+
+            </li>
+            <li class="dropdown menu-dropdown classic-menu-dropdown ">
+                <a href="/forums"  aria-label="Forums" role="link" >
+                    <i class="fa fa-comments"></i> Forums
+                </a>
+
+            </li>
+            <li class="dropdown menu-dropdown classic-menu-dropdown ">
+                <a href="/user/memberlist"  aria-label="Member List" role="link" >
+                    <i class="fa fa-users"></i> Member List
+                </a>
+
+            </li>
+            <li class="dropdown menu-dropdown classic-menu-dropdown ">
+                <a href="javascript:;"  aria-label="Support" role="button" aria-expanded=false aria-haspopup=true data-toggle=dropdown class=dropdown-toggle>
+                    <i class="fas fa-life-ring"></i> Support
+                        <span class="arrow"></span>
+                </a>
+
+                    <ul class="dropdown-menu pull-left">
+                            <li class=" ">
+                                <a href="/support/faq" class="nav-link  ">
+                                    <i class="fa fa-list"></i> FAQ
+                                </a>
+                            </li>
+                            <li class=" ">
+                                <a href="https://feedback.royalroad.com/s1-general/ideas" class="nav-link  ">
+                                    <i class="fa fa-lightbulb"></i> Suggestions
+                                </a>
+                            </li>
+                            <li class=" ">
+                                <a href="https://www.royalroad.com/forums/1124" class="nav-link  ">
+                                    <i class="fa fa-users"></i> Community Help
+                                </a>
+                            </li>
+                            <li class=" ">
+                                <a href="/support" class="nav-link  ">
+                                    <i class="fas fa-user-headset"></i> Support Tickets
+                                </a>
+                            </li>
+                            <li class=" ">
+                                <a href="https://status.royalroad.com" class="nav-link  ">
+                                    <i class="fa fa-check-circle"></i> Status
+                                </a>
+                            </li>
+                    </ul>
+            </li>
+            <li class="dropdown menu-dropdown classic-menu-dropdown ">
+                <a href="/premium"  aria-label="Premium" role="link" >
+                    <i class="fa fa-star"></i> Premium
+                </a>
+
+            </li>
+    </ul>
+</div>
+        </div>
+    </div>
+</div>
+<div class="page-container">
+    <div class="page-content-wrapper">
+        <div class="page-content">
+            <div class="container fiction-page">
+                
+
+
+
+<script>
+    window.fictionId = 26899;
+</script>
+<!-- BEGIN PAGE CONTENT INNER -->
+<div class="page-content-inner" vocab="http://schema.org/" typeof="Book">
+<meta property="sameAs" content="https://www.royalroad.com/fiction/26899"/>
+<div>
+<div class="row fic-header">
+    <div class="col-md-3 hidden-sm hidden-xs text-center">
+        <img src="https://www.royalroadcdn.com/public/covers-full/26899-discovering-magic.jpg" id="cover-discovering-magic-783117989ABA9C59" onError="this.onerror=null; this.src='/Content/Images/nocover-new-min.png';" class="img-offset thumbnail inline-block" alt="Discovering Magic" property="image"></img>
+    </div>
+    <div class="col-md-5 col-lg-6 text-center md-text-left fic-title">
+        <h1 class="font-white" property="name">Discovering Magic</h1>
+        <h4 class="font-white" property="author" typeof="Person">
+            <span class="small font-white">by </span>
+            <span property="name">
+                <a href="/profile/90178" class="font-white">Signspace13</a>
+            </span>
+        </h4>
+    </div>
+    <div class="col-md-4 col-lg-3 fic-buttons text-center md-text-left">
+            <a href="/fiction/26899/discovering-magic/chapter/398215/prologue" class="btn btn-lg btn-primary">
+                <i class="fa fa-book"></i>
+                <span>Start Reading</span>
+            </a>
+    </div>
+</div>
+<div class="fiction row">
+<div class="col-sm-12">
+<!--START SIDEBAR-->
+<div style="margin-right: 0; margin-left: 20px; padding-top: 10px" class="fiction-sidebar pull-right hidden-xs hidden-sm">
+    <!--START FICTION OPTIONS-->
+    
+<form method="post" action="/fictions/setbookmark/26899">
+    <input type="hidden" name="type" value="hide" />
+    <input type="hidden" name="mark" value="True" />
+    <button id="not-interested-button" class="not-interested-button button-icon-large toggle  popovers"
+            title="Not Interested" data-content="This mark will show up with the fiction on every list once marked" data-trigger="hover" data-container="body" data-placement="top">
+        <i class="fa fa-eye-slash"></i>
+        <span class="tip">Mark as</span>
+        <span>Not Interested</span>
+    </button>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+    <div class="icon-container">
+        <i class="fa fa-star"></i>
+        <span class="tip">Rate it</span>
+        <span>
+<form action="/fictions/rate/26899" id="rating_form" method="post">                <input type="hidden" name="id" value="26899" />
+
+<fieldset name="rating" class="star-select rating">
+    <input type="radio"  id="sidebar5ratingStars" name="rating" class="full" value="10"  aria-label="Rate as 5 Stars"/>
+    <label for="sidebar5ratingStars" class="full" title="5 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar4AndHalfStarrating" name="rating" class="half" value="9"  aria-label="Rate as 4 AndratingHalfStar"/>
+    <label for="sidebar4AndHalfStarrating" class="half" title="4and half star" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar4ratingStars" name="rating" class="full" value="8"  aria-label="Rate as 4 Stars"/>
+    <label for="sidebar4ratingStars" class="full" title="4 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar3AndHalfStarrating" name="rating" class="half" value="7"  aria-label="Rate as 3 AndratingHalfStar"/>
+    <label for="sidebar3AndHalfStarrating" class="half" title="3and half star" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar3ratingStars" name="rating" class="full" value="6"  aria-label="Rate as 3 Stars"/>
+    <label for="sidebar3ratingStars" class="full" title="3 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar2AndHalfStarrating" name="rating" class="half" value="5"  aria-label="Rate as 2 AndratingHalfStar"/>
+    <label for="sidebar2AndHalfStarrating" class="half" title="2and half star" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar2ratingStars" name="rating" class="full" value="4"  aria-label="Rate as 2 Stars"/>
+    <label for="sidebar2ratingStars" class="full" title="2 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar1AndHalfStarrating" name="rating" class="half" value="3"  aria-label="Rate as 1 AndratingHalfStar"/>
+    <label for="sidebar1AndHalfStarrating" class="half" title="1and half star" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar1ratingStars" name="rating" class="full" value="2"  aria-label="Rate as 1 Stars"/>
+    <label for="sidebar1ratingStars" class="full" title="1 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="sidebarHalfStarrating" name="rating" class="half" value="1"  aria-label="Rate as ratingHalfStar"/>
+    <label for="sidebarHalfStarrating" class="half" title="half star" aria-hidden="true"></label>
+</fieldset><input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>        </span>
+            <div class="fiction-ratingblocker popovers" title="Rating blocked" data-trigger="hover" data-content="Please don't rate a fiction that you haven't read yet! Instead, if you want to remember not wanting to read it, please use the Not Interested button above" data-placement="top" data-container="body">
+                <div class="text-center">
+                    <i class="fa fa-2x fa-question-circle"></i>
+                </div>
+            </div>
+    </div>
+<div class="row reduced-gutter">
+    <div class="col-xs-4">
+        <form method="post" action="/fictions/setbookmark/26899">
+            <input type="hidden" name="type" value="follow" />
+            <input type="hidden" name="mark" value="True" />
+            <button id="follow-button" class="button-icon-large toggle ">
+                <span class="tip icon-only">Follow</span>
+                <div class="text-center">
+                    <i class="fa fa-bookmark"></i>
+                </div>
+            </button>
+        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+    </div>
+    <div class="col-xs-4">
+        <form method="post" action="/fictions/setbookmark/26899">
+            <input type="hidden" name="type" value="favorite" />
+            <input type="hidden" name="mark" value="True" />
+            <button id="favorite-button" class="button-icon-large toggle ">
+                <span class="tip icon-only">Favorite</span>
+                <div class="text-center">
+                    <i class="fa fa-heart"></i>
+                </div>
+            </button>
+        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+    </div>
+    <div class="col-xs-4">
+        <form method="post" action="/fictions/setbookmark/26899">
+            <input type="hidden" name="type" value="ril" />
+            <input type="hidden" name="mark" value="True" />
+            <button id="ril-button" class="button-icon-large toggle ">
+                <span class="tip icon-only">Read Later</span>
+                <div class="text-center">
+                    <i class="fa fa-clock"></i>
+                </div>
+            </button>
+        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+    </div>
+</div>
+    <div class="dropdown-icon">
+        <input type="checkbox" id="donations-dropdown" />
+        <label for="donations-dropdown" class="popovers" data-trigger="hover" data-container="body" data-placement="top" data-original-title="Donations" data-content="All donations to the authors go through their own PayPal or Patreon account; Royal Road&reg; takes absolutely no part of your donations.">
+            <i class="fa fas fa-money-bill-wave"></i>
+            <span class="tip">Support Signspace13's work and</span>
+            <span>Donate</span>
+        </label>
+        <div class="dropdown-content">
+                <a rel="nofollow" class="dropdown-option" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=signspace13%40gmail.com&amp;currency_code=USD&amp;source=url">
+                    <i class="fab fa-paypal"></i>
+                    <span class="tip">Donate on</span>
+                    <span>PayPal</span>
+                </a>
+        </div>
+    </div>
+<a class="button-icon-large" href="/report/fiction/26899">
+    <i class="fa fa-exclamation-triangle"></i>
+    <span class="tip">Fiction breaking rules?</span>
+    <span class="center">Report</span>
+</a>
+
+    <!--END FICITON OPTIONS-->
+        <div class="portlet light no-padding text-center ac" style="padding-top: 5px !important;position: relative">
+            <h6 class="bold uppercase">Advertisement</h6>
+            <span style="position: absolute; top: 10px;right:10px">
+                <a class="btn btn-default btn-xs" target="_blank" href="/premium/subscription"><i class="fa fa-times"></i> Remove</a>
+            </span>
+            <div class="square text-center">
+                <div id="Content_Sidebar_Top_Desktop"></div>
+            </div>
+        </div>
+    <!--START USER SIDEBAR CARD-->
+    <div class="portlet light">
+        <div class="portlet-title">
+            <div class="caption">
+                <i class="fa fa-user"></i>
+                <span class="caption-subject bold uppercase">Author</span>
+            </div>
+        </div>
+        <div class="portlet-body">
+            <div>
+    <div class="no-border padding-top-40 margin-bottom-10 text-center">
+        <div class="avatar-container-general ">
+            <img src="https://www.royalroadcdn.com/public/avatars/avatar-90178-14112019202235.png" data-type="avatar" onLoad="$(this).data('loaded', 1)" onError="this.onerror=null; this.src='/Content/Images/anon.jpg';" class="img-circle" alt="Signspace13" ></img>
+                <div class="avatar-border silver silver-4"></div>
+                <div class="gem gem-15 silver silver-4" title="Reputation Level 15"></div>
+        </div>
+        <div class="mt-card-content">
+            <h3 style="font-size: 16px; font-weight: 600">
+                <a class="font-red" href="/profile/90178">Signspace13</a>
+            </h3>
+            <p class="font-grey-mint margin-bottom-10"></p>
+            <div class="mt-card-social">
+                <ul class="list-inline" style="font-size: 18px">
+                        <li>
+                            <a href="/private/send/90178">
+                                <i class="fa fa-envelope"></i>
+                            </a>
+                        </li>
+                    <li>
+                        <a href="/profile/90178">
+                            <i class="fa fa-user"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                    <form id="follow-author-form" action="/user/follow/90178" method="post">
+                        <input type="hidden" name="returnUrl" value="/fiction/26899"/>
+                        <button type="submit" class="btn btn-sm btn-default popovers" data-trigger="hover" data-placement="top" data-title="Follow Author" data-content="Notify me when this author releases a new fiction">Follow Author</button>
+                    <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+        <!--START ACHIEVEMENT-->
+        <div class="portlet-title">
+            <div class="caption">
+                <i class="fa fa-trophy"></i>
+                <span class="caption-subject bold uppercase">Achievements</span>
+            </div>
+        </div>
+        <div class="portlet-body">
+            <div class="row">
+                    <div class="col-xs-3 text-center">
+                        <img src="https://www.royalroadcdn.com/public/achievements/word-count-viii-small-AACATHw8Ig0.png" alt="Word Count (VIII)" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="Word Count (VIII)"/>
+                    </div>
+                    <div class="col-xs-3 text-center">
+                        <img src="https://www.royalroadcdn.com/public/achievements/1500-followers-small-AAAAXBmyIg0.png" alt="1,500 Followers" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="1,500 Followers"/>
+                    </div>
+                    <div class="col-xs-3 text-center">
+                        <img src="https://www.royalroadcdn.com/public/achievements/i-am-ascending-vi-small-AADAITIIIw0.png" alt="100,000 Views" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="100,000 Views"/>
+                    </div>
+                    <div class="col-xs-3 text-center">
+                        <img src="https://www.royalroadcdn.com/public/achievements/top-list-1000-small-AADA6AGfJQ0.png" alt="Top List #1000" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="Top List #1000"/>
+                    </div>
+                    <div class="col-xs-3 text-center">
+                        <img src="https://www.royalroadcdn.com/public/achievements/350-comments-small-AACA7hC0Ig0.png" alt="350 Comments" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="350 Comments"/>
+                    </div>
+                    <div class="col-xs-3 text-center">
+                        <img src="https://www.royalroadcdn.com/public/achievements/20-reviews-small-AADAr5enIg0.png" alt="20 Reviews" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="20 Reviews"/>
+                    </div>
+                    <div class="col-xs-3 text-center">
+                        <img src="https://www.royalroadcdn.com/public/achievements/2nd-anniversary-small-AAAA7itbIQ0.png" alt="2nd Anniversary" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="2nd Anniversary"/>
+                    </div>
+                    <div class="col-xs-3 text-center">
+                        <img src="https://www.royalroadcdn.com/public/achievements/150-review-upvotes-small-AACAVanWIg0.png" alt="150 Review Upvotes" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="150 Review Upvotes"/>
+                    </div>
+            </div>
+            <!--END ACHIEVEMENTS-->
+        </div>
+    </div>
+        <div class="portlet light no-padding text-center ac" style="padding-top: 5px !important;position: relative">
+            <h6 class="bold uppercase">Advertisement</h6>
+            <span style="position: absolute; top: 10px;right:10px">
+                <a class="btn btn-default btn-xs" target="_blank" href="/premium/subscription"><i class="fa fa-times"></i> Remove</a>
+            </span>
+            <div class="square text-center">
+                <div id="Content_Sidebar_Mid_Desktop"></div>
+            </div>
+        </div>
+    <!--END USER SIDEBAR CARD-->
+</div>
+<!--END SIDEBAR-->
+<!--START MAIN CONTENT-->
+<div class="fiction-info">
+<div class="portlet light row" style="min-height: 180px;">
+    <div class="col-md-4"></div>
+    <div class="col-md-8">
+        <div class="margin-bottom-10" style="min-height: 10px">
+                    <span class="label label-default label-sm bg-blue-hoki" style="overflow: hidden; display: inline-block; padding: 3px 5px;">Original</span>
+            <span class="label label-default label-sm bg-blue-hoki" style="overflow: hidden; display: inline-block; padding: 3px 5px;">HIATUS</span>
+            <span class="tags">
+                <input type="checkbox" id="showTags" />
+                    <a class="label label-default label-sm bg-blue-dark fiction-tag" property="genre" href="/fictions/search?tagsAdd=action">Action</a>
+                    <a class="label label-default label-sm bg-blue-dark fiction-tag" property="genre" href="/fictions/search?tagsAdd=adventure">Adventure</a>
+                    <a class="label label-default label-sm bg-blue-dark fiction-tag" property="genre" href="/fictions/search?tagsAdd=fantasy">Fantasy</a>
+                    <a class="label label-default label-sm bg-blue-dark fiction-tag" property="genre" href="/fictions/search?tagsAdd=dungeon">Dungeon</a>
+                    <a class="label label-default label-sm bg-blue-dark fiction-tag" property="genre" href="/fictions/search?tagsAdd=high_fantasy">High Fantasy</a>
+                    <a class="label label-default label-sm bg-blue-dark fiction-tag" property="genre" href="/fictions/search?tagsAdd=litrpg">LitRPG</a>
+                    <a class="label label-default label-sm bg-blue-dark fiction-tag" property="genre" href="/fictions/search?tagsAdd=magic">Magic</a>
+                    <a class="label label-default label-sm bg-blue-dark fiction-tag" property="genre" href="/fictions/search?tagsAdd=male_lead">Male Lead</a>
+                    <a class="label label-default label-sm bg-blue-dark fiction-tag" property="genre" href="/fictions/search?tagsAdd=summoned_hero">Portal Fantasy / Isekai</a>
+                <label for="showTags"></label>
+            </span>
+        </div>
+            <div style="padding: 5px 0" class="text-center font-red-sunglo">
+
+                    <strong>Warning</strong>
+                    <span>This fiction contains:</span>
+                    <ul class="list-inline">
+                            <li>Gore</li>
+                            <li>Profanity</li>
+                            <li>Traumatising content</li>
+                    </ul>
+            </div>
+        <div class="description">
+            <input type="checkbox" value="" id="showMore"/>
+            <div class="hidden-content" property="description">
+                <p>“Venture into your mind and into a new world, one where there is&nbsp;Magic.&nbsp;Magic&nbsp;that is nascent and unexplained, one where you can be the one to&nbsp;Discover&nbsp;it, by delving dark dungeons or examining magical Beasts, by studying ancient scrolls or by finding lost gods, your Imagination is the only limit.”</p>
+<p>This is what&nbsp;Mike&nbsp;thought he was getting into when he lay down to play a new VR game, but fate had another thing in store for him, he was whisked away to a new world in another Dimension, with an AI fused to his body that refuses to let him treat this world as a game, all the while trying to make it as much like a game as it can. The only Objective he is given is to&nbsp;Discover Magic&nbsp;as he learns to survive and live in this new world, doing the best he can to not die, or even worse.</p>
+<p>***</p>
+<p>Hi All!</p>
+<p>This is my story, it has been brewing in my mind in various forms for years. It will be rough, this is the first story I have written in a long time, so please help me make it as great as it can be!</p>
+<p>It is a High Fantasy adventure/Isekai LitRpg, it will have action and adventure, levels and dungeons, Elves, Dwarves and Gods.</p>
+<p>It is not a Virtual Reality story, though it will touch on some topics of artificial intelligence.</p>
+<p>The core focus of the story is going to be the discovery and deep delve in the magic system and fantastical elements of the world. Mana is used so often in LitRPG's but how often is it explained what mana is, magic is used in fantasy, but how often do you understand what it feels like. Magical races like Elves, Dwarves etc. often exist in stories, but why do they exist? and what truly makes them different from Humans and from each other? What is a God and where did they come from?</p>
+<p>These are the sort of topics that I want to really dive into in this series, all through the lens of a progression focused LitRPG.</p>
+<p>Thanks for reading!</p>
+            </div>
+            <label for="showMore" class="bold uppercase small"></label>
+        </div>
+    </div>
+</div>
+<div class="portlet light">
+    <div class="portlet-body fiction-stats">
+        <input type="checkbox" name="Show more stats" id="showStats"/>
+        <label for="showStats" tabindex="0" aria-label="Toggle Statistics" role="button">
+            <i class="fa fa-line-chart"></i>
+            <span class="title bold uppercase">Statistics</span>
+            <i class="fa fa-caret-down pull-right"></i>
+        </label>
+        <div class="stats-content">
+            <div class="col-sm-6" property="aggregateRating" typeof="AggregateRating">
+                <meta property="ratingValue" content="4.254925"/>
+                <meta property="bestRating" content="5"/>
+                <meta property="ratingCount" content="406"/>
+                <ul class="list-unstyled">
+                        <li class="bold uppercase list-item">Overall Score</li>
+                        <li class="list-item">
+                            <span class="font-red-sunglo popovers star star-26899-overall" title="Overall Score" data-trigger="hover" data-container="body" data-placement="top" data-original-title="Overall Score" data-content="4.25 / 5" aria-label="4.25 stars"><style>.star-26899-overall:after{ width: 85.0985% }</style></span>
+                        </li>
+                    <li class="bold uppercase list-item">Style Score</li>
+                    <li class="list-item">
+                        <span class="star star-38 font-red-sunglo popovers" data-trigger="hover" data-container="body" data-placement="top" data-original-title="Style Score" data-content="3.8 / 5" aria-label="3.8 stars"></span>
+                    </li>
+                    <li class="bold uppercase list-item">Story Score</li>
+                    <li class="list-item">
+                        <span class="star star-33 font-red-sunglo popovers" data-trigger="hover" data-container="body" data-placement="top" data-original-title="Story Score" data-content="3.3 / 5" aria-label="3.3 stars"></span>
+                    </li>
+                    <li class="bold uppercase list-item">Grammar Score</li>
+                    <li class="list-item">
+                        <span class="star star-34 font-red-sunglo popovers" data-trigger="hover" data-container="body" data-placement="top" data-original-title="Grammar Score" data-content="3.4 / 5" aria-label="3.4 stars"></span>
+                    </li>
+                    <li class="bold uppercase list-item">Character Score</li>
+                    <li class="list-item">
+                        <span class="star star-29 font-red-sunglo popovers" data-trigger="hover" data-container="body" data-placement="top" data-original-title="Character Score" data-content="2.9 / 5" aria-label="2.9 stars"></span>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-6">
+                <ul class="list-unstyled">
+                    <li class="bold uppercase">Total Views :</li>
+                    <li class="bold uppercase font-red-sunglo">227,378</li>
+                    <li class="bold uppercase">Average Views :</li>
+                    <li class="bold uppercase font-red-sunglo">5,684</li>
+                    <li class="bold uppercase">Followers :</li>
+                    <li class="bold uppercase font-red-sunglo">1,430</li>
+                    <li class="bold uppercase">Favorites :</li>
+                    <li class="bold uppercase font-red-sunglo">340</li>
+                        <li class="bold uppercase">Ratings :</li>
+                        <li class="bold uppercase font-red-sunglo">406</li>
+                    <li class="bold uppercase">Pages <i class="fal fa-question-circle popovers" data-trigger="hover" data-placement="top" data-container="body" title="Story Length" data-content="This story would be 297 pages long as a published paperback book. This is an estimate based on an average of 275 words per page, calculated from 81,749 words."></i> :</li>
+                    <li class="bold uppercase font-red-sunglo" property="numberOfPages">297</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="portlet light text-center" style="padding-top: 5px !important;position: relative">
+                <h6 class="bold uppercase">Advertisement</h6>
+                <span style="position: absolute; top: 10px;right:10px">
+                    <a class="btn btn-default btn-xs" target="_blank" href="/premium/subscription"><i class="fa fa-times"></i> Remove</a>
+                </span>
+                <div class="wide text-center ">
+                    <div id="Fiction_Mid_Desktop"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+<div style="padding-top: 10px" class="visible-xs visible-sm">
+
+    <a class="button-icon-large button-primary" href="#toc" rel="nofollow">
+        <i class="fa fa-list-alt"></i>
+        <span class="tip">Go to</span>
+        <span>Table of Contents</span>
+    </a>
+
+    
+<form method="post" action="/fictions/setbookmark/26899">
+    <input type="hidden" name="type" value="hide" />
+    <input type="hidden" name="mark" value="True" />
+    <button id="m-not-interested-button" class="not-interested-button button-icon-large toggle  popovers"
+            title="Not Interested" data-content="This mark will show up with the fiction on every list once marked" data-trigger="hover" data-container="body" data-placement="top">
+        <i class="fa fa-eye-slash"></i>
+        <span class="tip">Mark as</span>
+        <span>Not Interested</span>
+    </button>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+    <div class="icon-container">
+        <i class="fa fa-star"></i>
+        <span class="tip">Rate it</span>
+        <span>
+<form action="/fictions/rate/26899" id="rating_form_mobile" method="post">                <input type="hidden" name="id" value="26899" />
+
+<fieldset name="rating" class="star-select rating">
+    <input type="radio"  id="sidebar-mobile5ratingStars" name="rating" class="full" value="10"  aria-label="Rate as 5 Stars"/>
+    <label for="sidebar-mobile5ratingStars" class="full" title="5 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar-mobile4AndHalfStarrating" name="rating" class="half" value="9"  aria-label="Rate as 4 AndratingHalfStar"/>
+    <label for="sidebar-mobile4AndHalfStarrating" class="half" title="4and half star" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar-mobile4ratingStars" name="rating" class="full" value="8"  aria-label="Rate as 4 Stars"/>
+    <label for="sidebar-mobile4ratingStars" class="full" title="4 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar-mobile3AndHalfStarrating" name="rating" class="half" value="7"  aria-label="Rate as 3 AndratingHalfStar"/>
+    <label for="sidebar-mobile3AndHalfStarrating" class="half" title="3and half star" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar-mobile3ratingStars" name="rating" class="full" value="6"  aria-label="Rate as 3 Stars"/>
+    <label for="sidebar-mobile3ratingStars" class="full" title="3 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar-mobile2AndHalfStarrating" name="rating" class="half" value="5"  aria-label="Rate as 2 AndratingHalfStar"/>
+    <label for="sidebar-mobile2AndHalfStarrating" class="half" title="2and half star" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar-mobile2ratingStars" name="rating" class="full" value="4"  aria-label="Rate as 2 Stars"/>
+    <label for="sidebar-mobile2ratingStars" class="full" title="2 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar-mobile1AndHalfStarrating" name="rating" class="half" value="3"  aria-label="Rate as 1 AndratingHalfStar"/>
+    <label for="sidebar-mobile1AndHalfStarrating" class="half" title="1and half star" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar-mobile1ratingStars" name="rating" class="full" value="2"  aria-label="Rate as 1 Stars"/>
+    <label for="sidebar-mobile1ratingStars" class="full" title="1 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="sidebar-mobileHalfStarrating" name="rating" class="half" value="1"  aria-label="Rate as ratingHalfStar"/>
+    <label for="sidebar-mobileHalfStarrating" class="half" title="half star" aria-hidden="true"></label>
+</fieldset><input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>        </span>
+            <div class="fiction-ratingblocker popovers" title="Rating blocked" data-trigger="hover" data-content="Please don't rate a fiction that you haven't read yet! Instead, if you want to remember not wanting to read it, please use the Not Interested button above" data-placement="top" data-container="body">
+                <div class="text-center">
+                    <i class="fa fa-2x fa-question-circle"></i>
+                </div>
+            </div>
+    </div>
+<div class="row reduced-gutter">
+    <div class="col-xs-4">
+        <form method="post" action="/fictions/setbookmark/26899">
+            <input type="hidden" name="type" value="follow" />
+            <input type="hidden" name="mark" value="True" />
+            <button id="m-follow-button" class="button-icon-large toggle ">
+                <span class="tip icon-only">Follow</span>
+                <div class="text-center">
+                    <i class="fa fa-bookmark"></i>
+                </div>
+            </button>
+        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+    </div>
+    <div class="col-xs-4">
+        <form method="post" action="/fictions/setbookmark/26899">
+            <input type="hidden" name="type" value="favorite" />
+            <input type="hidden" name="mark" value="True" />
+            <button id="m-favorite-button" class="button-icon-large toggle ">
+                <span class="tip icon-only">Favorite</span>
+                <div class="text-center">
+                    <i class="fa fa-heart"></i>
+                </div>
+            </button>
+        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+    </div>
+    <div class="col-xs-4">
+        <form method="post" action="/fictions/setbookmark/26899">
+            <input type="hidden" name="type" value="ril" />
+            <input type="hidden" name="mark" value="True" />
+            <button id="m-ril-button" class="button-icon-large toggle ">
+                <span class="tip icon-only">Read Later</span>
+                <div class="text-center">
+                    <i class="fa fa-clock"></i>
+                </div>
+            </button>
+        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+    </div>
+</div>
+    <div class="dropdown-icon">
+        <input type="checkbox" id="donations-dropdown-mob" />
+        <label for="donations-dropdown-mob" class="popovers" data-trigger="hover" data-container="body" data-placement="top" data-original-title="Donations" data-content="All donations to the authors go through their own PayPal or Patreon account; Royal Road&reg; takes absolutely no part of your donations.">
+            <i class="fa fas fa-money-bill-wave"></i>
+            <span class="tip">Support Signspace13's work and</span>
+            <span>Donate</span>
+        </label>
+        <div class="dropdown-content">
+                <a rel="nofollow" class="dropdown-option" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=signspace13%40gmail.com&amp;currency_code=USD&amp;source=url">
+                    <i class="fab fa-paypal"></i>
+                    <span class="tip">Donate on</span>
+                    <span>PayPal</span>
+                </a>
+        </div>
+    </div>
+<a class="button-icon-large" href="/report/fiction/26899">
+    <i class="fa fa-exclamation-triangle"></i>
+    <span class="tip">Fiction breaking rules?</span>
+    <span class="center">Report</span>
+</a>
+        <div class="portlet light no-padding text-center ac" style="padding-top: 5px !important;position: relative">
+            <h6 class="bold uppercase">Advertisement</h6>
+            <span style="position: absolute; top: 10px;right:10px">
+                <a class="btn btn-default btn-xs" target="_blank" href="/premium/subscription"><i class="fa fa-times"></i> Remove</a>
+            </span>
+            <div class="square text-center">
+                <div id="Content_Top_Mobile"></div>
+            </div>
+        </div>
+    <div class="portlet light visible-xs visible-sm">
+        <div class="portlet-title">
+            <div class="caption">
+                <i class="fa fa-user"></i>
+                <span class="caption-subject bold uppercase">Author</span>
+            </div>
+        </div>
+        <div class="portlet-body">
+            <div>
+    <div class="no-border padding-top-40 margin-bottom-10 text-center">
+        <div class="avatar-container-general ">
+            <img src="https://www.royalroadcdn.com/public/avatars/avatar-90178-14112019202235.png" data-type="avatar" onLoad="$(this).data('loaded', 1)" onError="this.onerror=null; this.src='/Content/Images/anon.jpg';" class="img-circle" alt="Signspace13" ></img>
+                <div class="avatar-border silver silver-4"></div>
+                <div class="gem gem-15 silver silver-4" title="Reputation Level 15"></div>
+        </div>
+        <div class="mt-card-content">
+            <h3 style="font-size: 16px; font-weight: 600">
+                <a class="font-red" href="/profile/90178">Signspace13</a>
+            </h3>
+            <p class="font-grey-mint margin-bottom-10"></p>
+            <div class="mt-card-social">
+                <ul class="list-inline" style="font-size: 18px">
+                        <li>
+                            <a href="/private/send/90178">
+                                <i class="fa fa-envelope"></i>
+                            </a>
+                        </li>
+                    <li>
+                        <a href="/profile/90178">
+                            <i class="fa fa-user"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                    <form id="follow-author-form" action="/user/follow/90178" method="post">
+                        <input type="hidden" name="returnUrl" value="/fiction/26899"/>
+                        <button type="submit" class="btn btn-sm btn-default popovers" data-trigger="hover" data-placement="top" data-title="Follow Author" data-content="Notify me when this author releases a new fiction">Follow Author</button>
+                    <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+        <div class="portlet-title">
+            <div class="caption">
+                <i class="fa fa-trophy"></i>
+                <span class="caption-subject bold uppercase">Achievements</span>
+            </div>
+        </div>
+        <div class="portlet-body">
+            <div class="row">
+                    <div class="col-xs-5ths">
+                        <img src="https://www.royalroadcdn.com/public/achievements/word-count-viii-small-AACATHw8Ig0.png" alt="Word Count (VIII)" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="Word Count (VIII)"/>
+                    </div>
+                    <div class="col-xs-5ths">
+                        <img src="https://www.royalroadcdn.com/public/achievements/1500-followers-small-AAAAXBmyIg0.png" alt="1,500 Followers" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="1,500 Followers"/>
+                    </div>
+                    <div class="col-xs-5ths">
+                        <img src="https://www.royalroadcdn.com/public/achievements/i-am-ascending-vi-small-AADAITIIIw0.png" alt="100,000 Views" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="100,000 Views"/>
+                    </div>
+                    <div class="col-xs-5ths">
+                        <img src="https://www.royalroadcdn.com/public/achievements/top-list-1000-small-AADA6AGfJQ0.png" alt="Top List #1000" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="Top List #1000"/>
+                    </div>
+                    <div class="col-xs-5ths">
+                        <img src="https://www.royalroadcdn.com/public/achievements/350-comments-small-AACA7hC0Ig0.png" alt="350 Comments" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="350 Comments"/>
+                    </div>
+                    <div class="col-xs-5ths">
+                        <img src="https://www.royalroadcdn.com/public/achievements/20-reviews-small-AADAr5enIg0.png" alt="20 Reviews" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="20 Reviews"/>
+                    </div>
+                    <div class="col-xs-5ths">
+                        <img src="https://www.royalroadcdn.com/public/achievements/2nd-anniversary-small-AAAA7itbIQ0.png" alt="2nd Anniversary" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="2nd Anniversary"/>
+                    </div>
+                    <div class="col-xs-5ths">
+                        <img src="https://www.royalroadcdn.com/public/achievements/150-review-upvotes-small-AACAVanWIg0.png" alt="150 Review Upvotes" class="popovers" style="width: 38px; height: 38px" data-container="body" data-trigger="hover" data-placement="top" data-content="150 Review Upvotes"/>
+                    </div>
+            </div>
+        </div>
+    </div>
+        <div class="portlet light no-padding text-center ac" style="padding-top: 5px !important;position: relative">
+            <h6 class="bold uppercase">Advertisement</h6>
+            <span style="position: absolute; top: 10px;right:10px">
+                <a class="btn btn-default btn-xs" target="_blank" href="/premium/subscription"><i class="fa fa-times"></i> Remove</a>
+            </span>
+            <div class="square text-center">
+                <div id="Content_Mid_Mobile"></div>
+            </div>
+        </div>
+</div>
+<div class="portlet light">
+    <div class="portlet-title">
+        <div class="caption">
+            <a id="toc"></a>
+            <i class="fa fa-book font-red-sunglo"></i>
+            <span class="caption-subject bold uppercase font-red-sunglo">Table of Contents</span>
+        </div>
+    </div>
+    <div class="portlet-body">
+        <table class="table no-border" id="chapters" data-chapters="40">
+            <thead>
+            <tr>
+                <th data-priority="1">
+                    Chapter Name
+                </th>
+                <th class="text-right min-tablet-p" data-priority="2">
+                    Release Date
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/398215/prologue">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/398215/prologue">
+                            Prologue
+                        </a>
+                    </td>
+                    <td data-content="0" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/398215/prologue">
+                            <time title="Sunday, September 1, 2019 7:30 PM" format="agoshort" >19 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/398322/chapter-1-not-a-game">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/398322/chapter-1-not-a-game">
+                            Chapter 1 - NOT a Game
+                        </a>
+                    </td>
+                    <td data-content="1" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/398322/chapter-1-not-a-game">
+                            <time title="Monday, September 2, 2019 3:29 AM" format="agoshort" >19 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/398639/chapter-2-help">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/398639/chapter-2-help">
+                            Chapter 2 - Help
+                        </a>
+                    </td>
+                    <td data-content="2" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/398639/chapter-2-help">
+                            <time title="Tuesday, September 3, 2019 3:18 AM" format="agoshort" >19 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/398964/chapter-3-level-up-sort-of">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/398964/chapter-3-level-up-sort-of">
+                            Chapter 3 - Level up! sort of&#x2026;
+                        </a>
+                    </td>
+                    <td data-content="3" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/398964/chapter-3-level-up-sort-of">
+                            <time title="Wednesday, September 4, 2019 4:15 AM" format="agoshort" >19 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/399268/chapter-4-quest-escape">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/399268/chapter-4-quest-escape">
+                            Chapter 4 - Quest: Escape!
+                        </a>
+                    </td>
+                    <td data-content="4" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/399268/chapter-4-quest-escape">
+                            <time title="Thursday, September 5, 2019 2:59 AM" format="agoshort" >19 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/405126/chapter-5-escape-attempt">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/405126/chapter-5-escape-attempt">
+                            Chapter 5 - Escape attempt
+                        </a>
+                    </td>
+                    <td data-content="5" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/405126/chapter-5-escape-attempt">
+                            <time title="Monday, September 23, 2019 4:59 AM" format="agoshort" >19 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/408869/chapter-6-level-up-for-real">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/408869/chapter-6-level-up-for-real">
+                            Chapter 6 - Level Up! For real!
+                        </a>
+                    </td>
+                    <td data-content="6" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/408869/chapter-6-level-up-for-real">
+                            <time title="Tuesday, October 1, 2019 6:44 AM" format="agoshort" >18 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/409997/chapter-7-consequences">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/409997/chapter-7-consequences">
+                            Chapter 7 - Consequences
+                        </a>
+                    </td>
+                    <td data-content="7" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/409997/chapter-7-consequences">
+                            <time title="Saturday, October 5, 2019 12:00 AM" format="agoshort" >18 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/411315/chapter-8-skill-system">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/411315/chapter-8-skill-system">
+                            Chapter 8 - Skill System
+                        </a>
+                    </td>
+                    <td data-content="8" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/411315/chapter-8-skill-system">
+                            <time title="Tuesday, October 8, 2019 10:00 PM" format="agoshort" >18 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/411986/chapter-9-dark-magic">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/411986/chapter-9-dark-magic">
+                            Chapter 9 - Dark Magic
+                        </a>
+                    </td>
+                    <td data-content="9" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/411986/chapter-9-dark-magic">
+                            <time title="Thursday, October 10, 2019 9:00 PM" format="agoshort" >18 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/412636/chapter-10-magic-lesson">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/412636/chapter-10-magic-lesson">
+                            Chapter 10 - Magic Lesson
+                        </a>
+                    </td>
+                    <td data-content="10" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/412636/chapter-10-magic-lesson">
+                            <time title="Saturday, October 12, 2019 10:00 PM" format="agoshort" >18 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/413245/chapter-11-plan">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/413245/chapter-11-plan">
+                            Chapter 11 - Plan
+                        </a>
+                    </td>
+                    <td data-content="11" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/413245/chapter-11-plan">
+                            <time title="Monday, October 14, 2019 10:00 PM" format="agoshort" >18 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/413866/chapter-12-escape-second-attempt">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/413866/chapter-12-escape-second-attempt">
+                            Chapter 12 - Escape, Second attempt
+                        </a>
+                    </td>
+                    <td data-content="12" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/413866/chapter-12-escape-second-attempt">
+                            <time title="Wednesday, October 16, 2019 10:00 PM" format="agoshort" >18 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/414501/chapter-13-new-scenery">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/414501/chapter-13-new-scenery">
+                            Chapter 13 - New Scenery
+                        </a>
+                    </td>
+                    <td data-content="13" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/414501/chapter-13-new-scenery">
+                            <time title="Saturday, October 19, 2019 12:48 AM" format="agoshort" >18 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/414974/chapter-14-level-up-and-loot">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/414974/chapter-14-level-up-and-loot">
+                            Chapter 14 - Level up and Loot
+                        </a>
+                    </td>
+                    <td data-content="14" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/414974/chapter-14-level-up-and-loot">
+                            <time title="Sunday, October 20, 2019 9:06 PM" format="agoshort" >18 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/415555/chapter-15-classes">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/415555/chapter-15-classes">
+                            Chapter 15 - Classes
+                        </a>
+                    </td>
+                    <td data-content="15" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/415555/chapter-15-classes">
+                            <time title="Tuesday, October 22, 2019 8:00 PM" format="agoshort" >18 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/416197/chapter-16-deliberation-and-choice">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/416197/chapter-16-deliberation-and-choice">
+                            Chapter 16 - Deliberation and Choice
+                        </a>
+                    </td>
+                    <td data-content="16" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/416197/chapter-16-deliberation-and-choice">
+                            <time title="Thursday, October 24, 2019 10:30 PM" format="agoshort" >18 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/416975/chapter-17-peryton">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/416975/chapter-17-peryton">
+                            Chapter 17 - Peryton
+                        </a>
+                    </td>
+                    <td data-content="17" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/416975/chapter-17-peryton">
+                            <time title="Saturday, October 26, 2019 10:00 PM" format="agoshort" >18 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/417470/chapter-18-crosse">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/417470/chapter-18-crosse">
+                            Chapter 18 - Crosse
+                        </a>
+                    </td>
+                    <td data-content="18" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/417470/chapter-18-crosse">
+                            <time title="Monday, October 28, 2019 9:02 PM" format="agoshort" >17 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/418160/chapter-19-dinner-and-stories">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/418160/chapter-19-dinner-and-stories">
+                            Chapter 19 - Dinner and Stories
+                        </a>
+                    </td>
+                    <td data-content="19" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/418160/chapter-19-dinner-and-stories">
+                            <time title="Wednesday, October 30, 2019 9:00 PM" format="agoshort" >17 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/418985/chapter-20-arcane-intuition">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/418985/chapter-20-arcane-intuition">
+                            Chapter 20 - Arcane Intuition
+                        </a>
+                    </td>
+                    <td data-content="20" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/418985/chapter-20-arcane-intuition">
+                            <time title="Friday, November 1, 2019 9:00 PM" format="agoshort" >17 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/419719/chapter-21-arcane-calculation">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/419719/chapter-21-arcane-calculation">
+                            Chapter 21 - Arcane Calculation
+                        </a>
+                    </td>
+                    <td data-content="21" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/419719/chapter-21-arcane-calculation">
+                            <time title="Sunday, November 3, 2019 9:00 PM" format="agoshort" >17 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/420472/chapter-22-sunrise">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/420472/chapter-22-sunrise">
+                            Chapter 22 - Sunrise
+                        </a>
+                    </td>
+                    <td data-content="22" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/420472/chapter-22-sunrise">
+                            <time title="Tuesday, November 5, 2019 9:00 PM" format="agoshort" >17 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/421223/chapter-23-beginning-of-a-journey">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/421223/chapter-23-beginning-of-a-journey">
+                            Chapter 23 - Beginning of a Journey
+                        </a>
+                    </td>
+                    <td data-content="23" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/421223/chapter-23-beginning-of-a-journey">
+                            <time title="Thursday, November 7, 2019 9:00 PM" format="agoshort" >17 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/422300/chapter-24-the-first-leg">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/422300/chapter-24-the-first-leg">
+                            Chapter 24 - The First Leg
+                        </a>
+                    </td>
+                    <td data-content="24" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/422300/chapter-24-the-first-leg">
+                            <time title="Sunday, November 10, 2019 9:00 PM" format="agoshort" >17 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/422952/chapter-25-the-outcome">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/422952/chapter-25-the-outcome">
+                            Chapter 25 - The Outcome
+                        </a>
+                    </td>
+                    <td data-content="25" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/422952/chapter-25-the-outcome">
+                            <time title="Tuesday, November 12, 2019 9:00 PM" format="agoshort" >17 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/423646/chapter-26-inasholme">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/423646/chapter-26-inasholme">
+                            Chapter 26 - Inasholme
+                        </a>
+                    </td>
+                    <td data-content="26" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/423646/chapter-26-inasholme">
+                            <time title="Thursday, November 14, 2019 9:00 PM" format="agoshort" >17 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/424723/chapter-27-lady-ina">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/424723/chapter-27-lady-ina">
+                            Chapter 27 - Lady Ina
+                        </a>
+                    </td>
+                    <td data-content="27" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/424723/chapter-27-lady-ina">
+                            <time title="Sunday, November 17, 2019 9:00 PM" format="agoshort" >17 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/425450/chapter-28-healing">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/425450/chapter-28-healing">
+                            Chapter 28 - Healing
+                        </a>
+                    </td>
+                    <td data-content="28" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/425450/chapter-28-healing">
+                            <time title="Tuesday, November 19, 2019 9:00 PM" format="agoshort" >17 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/426173/chapter-29-a-home">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/426173/chapter-29-a-home">
+                            Chapter 29 - A Home
+                        </a>
+                    </td>
+                    <td data-content="29" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/426173/chapter-29-a-home">
+                            <time title="Thursday, November 21, 2019 10:42 PM" format="agoshort" >17 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/427294/chapter-30-a-god">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/427294/chapter-30-a-god">
+                            Chapter 30 - A God
+                        </a>
+                    </td>
+                    <td data-content="30" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/427294/chapter-30-a-god">
+                            <time title="Sunday, November 24, 2019 9:57 PM" format="agoshort" >17 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/428133/chapter-31-new-day">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/428133/chapter-31-new-day">
+                            Chapter 31 - New Day
+                        </a>
+                    </td>
+                    <td data-content="31" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/428133/chapter-31-new-day">
+                            <time title="Tuesday, November 26, 2019 11:09 PM" format="agoshort" >17 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/428785/chapter-32-bowmanship">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/428785/chapter-32-bowmanship">
+                            Chapter 32 - Bowmanship
+                        </a>
+                    </td>
+                    <td data-content="32" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/428785/chapter-32-bowmanship">
+                            <time title="Thursday, November 28, 2019 10:43 PM" format="agoshort" >16 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/429937/chapter-33-sun-gazer">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/429937/chapter-33-sun-gazer">
+                            Chapter 33 - Sun-Gazer
+                        </a>
+                    </td>
+                    <td data-content="33" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/429937/chapter-33-sun-gazer">
+                            <time title="Sunday, December 1, 2019 9:00 PM" format="agoshort" >16 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/430745/chapter-34-true-magic">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/430745/chapter-34-true-magic">
+                            Chapter 34 - True Magic
+                        </a>
+                    </td>
+                    <td data-content="34" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/430745/chapter-34-true-magic">
+                            <time title="Tuesday, December 3, 2019 9:00 PM" format="agoshort" >16 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/431559/chapter-35-questions-about-mana">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/431559/chapter-35-questions-about-mana">
+                            Chapter 35 - Questions About Mana
+                        </a>
+                    </td>
+                    <td data-content="35" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/431559/chapter-35-questions-about-mana">
+                            <time title="Thursday, December 5, 2019 9:00 PM" format="agoshort" >16 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/432673/chapter-36-grieving">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/432673/chapter-36-grieving">
+                            Chapter 36 - Grieving
+                        </a>
+                    </td>
+                    <td data-content="36" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/432673/chapter-36-grieving">
+                            <time title="Sunday, December 8, 2019 9:13 PM" format="agoshort" >16 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/433452/chapter-37-elders">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/433452/chapter-37-elders">
+                            Chapter 37 - Elders
+                        </a>
+                    </td>
+                    <td data-content="37" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/433452/chapter-37-elders">
+                            <time title="Wednesday, December 11, 2019 12:32 AM" format="agoshort" >16 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/434207/chapter-38-distracted">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/434207/chapter-38-distracted">
+                            Chapter 38 - Distracted
+                        </a>
+                    </td>
+                    <td data-content="38" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/434207/chapter-38-distracted">
+                            <time title="Friday, December 13, 2019 3:41 AM" format="agoshort" >16 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+                <tr style="cursor: pointer" data-url="/fiction/26899/discovering-magic/chapter/443927/discovering-magic--update--sorry-for-vanishing">
+                    <td>
+                        <a href="/fiction/26899/discovering-magic/chapter/443927/discovering-magic--update--sorry-for-vanishing">
+                            Discovering Magic -Update- Sorry for vanishing!
+                        </a>
+                    </td>
+                    <td data-content="39" class="text-right">
+                        <a class="/fiction/26899/discovering-magic/chapter/443927/discovering-magic--update--sorry-for-vanishing">
+                            <time title="Friday, January 10, 2020 4:19 AM" format="agoshort" >15 months </time> ago
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+    <div class="review-new portlet light">
+        <div class="portlet-title">
+            <h4 class="bold uppercase font-red-sunglo">Leave a review</h4>
+        </div>
+        <div class="portlet-body form">
+            
+<form method="POST" action="/fictions/review/26899" role="form" class="form-horizontal form-bordered" id="review-form" style="position: relative">
+    <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" />
+    <div class="form-body">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="form-group">
+                    <label class="bold uppercase font-blue-dark control-label col-md-3">Review title</label>
+                    <div class="col-md-9">
+                        <input type="text" maxlength="50" name="title" class="form-control"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row no-gutter">
+            <div class="col-sm-6">
+                <div class="form-group">
+                    <label class="bold uppercase font-blue-dark control-label col-md-4 col-lg-6" tabindex="0">Overall Score</label>
+                    <div class="col-md-8 col-lg-6 overall-score-star-select-main">
+                        
+<fieldset name="overall_score" class="star-select overall_score">
+    <input type="radio" required id="5overall_scoreStars" name="overall_score" class="full" value="10"  aria-label="Rate as 5 Stars"/>
+    <label for="5overall_scoreStars" class="full" title="5 Stars" aria-hidden="true"></label>
+    <input type="radio" required id="4AndHalfStaroverall_score" name="overall_score" class="half" value="9"  aria-label="Rate as 4 Andoverall_scoreHalfStar"/>
+    <label for="4AndHalfStaroverall_score" class="half" title="4and half star" aria-hidden="true"></label>
+    <input type="radio" required id="4overall_scoreStars" name="overall_score" class="full" value="8"  aria-label="Rate as 4 Stars"/>
+    <label for="4overall_scoreStars" class="full" title="4 Stars" aria-hidden="true"></label>
+    <input type="radio" required id="3AndHalfStaroverall_score" name="overall_score" class="half" value="7"  aria-label="Rate as 3 Andoverall_scoreHalfStar"/>
+    <label for="3AndHalfStaroverall_score" class="half" title="3and half star" aria-hidden="true"></label>
+    <input type="radio" required id="3overall_scoreStars" name="overall_score" class="full" value="6"  aria-label="Rate as 3 Stars"/>
+    <label for="3overall_scoreStars" class="full" title="3 Stars" aria-hidden="true"></label>
+    <input type="radio" required id="2AndHalfStaroverall_score" name="overall_score" class="half" value="5"  aria-label="Rate as 2 Andoverall_scoreHalfStar"/>
+    <label for="2AndHalfStaroverall_score" class="half" title="2and half star" aria-hidden="true"></label>
+    <input type="radio" required id="2overall_scoreStars" name="overall_score" class="full" value="4"  aria-label="Rate as 2 Stars"/>
+    <label for="2overall_scoreStars" class="full" title="2 Stars" aria-hidden="true"></label>
+    <input type="radio" required id="1AndHalfStaroverall_score" name="overall_score" class="half" value="3"  aria-label="Rate as 1 Andoverall_scoreHalfStar"/>
+    <label for="1AndHalfStaroverall_score" class="half" title="1and half star" aria-hidden="true"></label>
+    <input type="radio" required id="1overall_scoreStars" name="overall_score" class="full" value="2"  aria-label="Rate as 1 Stars"/>
+    <label for="1overall_scoreStars" class="full" title="1 Stars" aria-hidden="true"></label>
+    <input type="radio" required id="HalfStaroverall_score" name="overall_score" class="half" value="1"  aria-label="Rate as overall_scoreHalfStar"/>
+    <label for="HalfStaroverall_score" class="half" title="half star" aria-hidden="true"></label>
+</fieldset>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="form-group">
+                    <label class="bold uppercase font-blue-dark control-label col-md-6" for="advancedReview">Advanced Review</label>
+                    <div class="col-md-6">
+                        <label class="mt-checkbox">
+                            <input id="advancedReview" name="advancedReview" type="checkbox" value="true" />
+                            <span></span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row no-gutter adv-score">
+            <div class="col-sm-6">
+                <div class="form-group">
+                    <label class="bold uppercase font-blue-dark control-label col-md-4 col-lg-6 advanced-star-label" tabindex="0">Style Score</label>
+                    <div class="col-md-8 col-lg-6">
+                        
+<fieldset name="style_score" class="star-select style_score">
+    <input type="radio"  id="5style_scoreStars" name="style_score" class="full" value="10"  aria-label="Rate as 5 Stars"/>
+    <label for="5style_scoreStars" class="full" title="5 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="4AndHalfStarstyle_score" name="style_score" class="half" value="9"  aria-label="Rate as 4 Andstyle_scoreHalfStar"/>
+    <label for="4AndHalfStarstyle_score" class="half" title="4and half star" aria-hidden="true"></label>
+    <input type="radio"  id="4style_scoreStars" name="style_score" class="full" value="8"  aria-label="Rate as 4 Stars"/>
+    <label for="4style_scoreStars" class="full" title="4 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="3AndHalfStarstyle_score" name="style_score" class="half" value="7"  aria-label="Rate as 3 Andstyle_scoreHalfStar"/>
+    <label for="3AndHalfStarstyle_score" class="half" title="3and half star" aria-hidden="true"></label>
+    <input type="radio"  id="3style_scoreStars" name="style_score" class="full" value="6"  aria-label="Rate as 3 Stars"/>
+    <label for="3style_scoreStars" class="full" title="3 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="2AndHalfStarstyle_score" name="style_score" class="half" value="5"  aria-label="Rate as 2 Andstyle_scoreHalfStar"/>
+    <label for="2AndHalfStarstyle_score" class="half" title="2and half star" aria-hidden="true"></label>
+    <input type="radio"  id="2style_scoreStars" name="style_score" class="full" value="4"  aria-label="Rate as 2 Stars"/>
+    <label for="2style_scoreStars" class="full" title="2 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="1AndHalfStarstyle_score" name="style_score" class="half" value="3"  aria-label="Rate as 1 Andstyle_scoreHalfStar"/>
+    <label for="1AndHalfStarstyle_score" class="half" title="1and half star" aria-hidden="true"></label>
+    <input type="radio"  id="1style_scoreStars" name="style_score" class="full" value="2"  aria-label="Rate as 1 Stars"/>
+    <label for="1style_scoreStars" class="full" title="1 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="HalfStarstyle_score" name="style_score" class="half" value="1"  aria-label="Rate as style_scoreHalfStar"/>
+    <label for="HalfStarstyle_score" class="half" title="half star" aria-hidden="true"></label>
+</fieldset>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="form-group">
+                    <label class="bold uppercase font-blue-dark control-label col-md-4 col-lg-6 advanced-star-label" tabindex="0">Story Score</label>
+                    <div class="col-md-8 col-lg-6">
+                        
+<fieldset name="story_score" class="star-select story_score">
+    <input type="radio"  id="5story_scoreStars" name="story_score" class="full" value="10"  aria-label="Rate as 5 Stars"/>
+    <label for="5story_scoreStars" class="full" title="5 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="4AndHalfStarstory_score" name="story_score" class="half" value="9"  aria-label="Rate as 4 Andstory_scoreHalfStar"/>
+    <label for="4AndHalfStarstory_score" class="half" title="4and half star" aria-hidden="true"></label>
+    <input type="radio"  id="4story_scoreStars" name="story_score" class="full" value="8"  aria-label="Rate as 4 Stars"/>
+    <label for="4story_scoreStars" class="full" title="4 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="3AndHalfStarstory_score" name="story_score" class="half" value="7"  aria-label="Rate as 3 Andstory_scoreHalfStar"/>
+    <label for="3AndHalfStarstory_score" class="half" title="3and half star" aria-hidden="true"></label>
+    <input type="radio"  id="3story_scoreStars" name="story_score" class="full" value="6"  aria-label="Rate as 3 Stars"/>
+    <label for="3story_scoreStars" class="full" title="3 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="2AndHalfStarstory_score" name="story_score" class="half" value="5"  aria-label="Rate as 2 Andstory_scoreHalfStar"/>
+    <label for="2AndHalfStarstory_score" class="half" title="2and half star" aria-hidden="true"></label>
+    <input type="radio"  id="2story_scoreStars" name="story_score" class="full" value="4"  aria-label="Rate as 2 Stars"/>
+    <label for="2story_scoreStars" class="full" title="2 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="1AndHalfStarstory_score" name="story_score" class="half" value="3"  aria-label="Rate as 1 Andstory_scoreHalfStar"/>
+    <label for="1AndHalfStarstory_score" class="half" title="1and half star" aria-hidden="true"></label>
+    <input type="radio"  id="1story_scoreStars" name="story_score" class="full" value="2"  aria-label="Rate as 1 Stars"/>
+    <label for="1story_scoreStars" class="full" title="1 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="HalfStarstory_score" name="story_score" class="half" value="1"  aria-label="Rate as story_scoreHalfStar"/>
+    <label for="HalfStarstory_score" class="half" title="half star" aria-hidden="true"></label>
+</fieldset>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row no-gutter adv-score">
+            <div class="col-sm-6">
+                <div class="form-group">
+                    <label class="bold uppercase font-blue-dark control-label col-md-4 col-lg-6 advanced-star-label" tabindex="0">Grammar Score</label>
+                    <div class="col-md-8 col-lg-6">
+                        
+<fieldset name="grammar_score" class="star-select grammar_score">
+    <input type="radio"  id="5grammar_scoreStars" name="grammar_score" class="full" value="10"  aria-label="Rate as 5 Stars"/>
+    <label for="5grammar_scoreStars" class="full" title="5 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="4AndHalfStargrammar_score" name="grammar_score" class="half" value="9"  aria-label="Rate as 4 Andgrammar_scoreHalfStar"/>
+    <label for="4AndHalfStargrammar_score" class="half" title="4and half star" aria-hidden="true"></label>
+    <input type="radio"  id="4grammar_scoreStars" name="grammar_score" class="full" value="8"  aria-label="Rate as 4 Stars"/>
+    <label for="4grammar_scoreStars" class="full" title="4 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="3AndHalfStargrammar_score" name="grammar_score" class="half" value="7"  aria-label="Rate as 3 Andgrammar_scoreHalfStar"/>
+    <label for="3AndHalfStargrammar_score" class="half" title="3and half star" aria-hidden="true"></label>
+    <input type="radio"  id="3grammar_scoreStars" name="grammar_score" class="full" value="6"  aria-label="Rate as 3 Stars"/>
+    <label for="3grammar_scoreStars" class="full" title="3 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="2AndHalfStargrammar_score" name="grammar_score" class="half" value="5"  aria-label="Rate as 2 Andgrammar_scoreHalfStar"/>
+    <label for="2AndHalfStargrammar_score" class="half" title="2and half star" aria-hidden="true"></label>
+    <input type="radio"  id="2grammar_scoreStars" name="grammar_score" class="full" value="4"  aria-label="Rate as 2 Stars"/>
+    <label for="2grammar_scoreStars" class="full" title="2 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="1AndHalfStargrammar_score" name="grammar_score" class="half" value="3"  aria-label="Rate as 1 Andgrammar_scoreHalfStar"/>
+    <label for="1AndHalfStargrammar_score" class="half" title="1and half star" aria-hidden="true"></label>
+    <input type="radio"  id="1grammar_scoreStars" name="grammar_score" class="full" value="2"  aria-label="Rate as 1 Stars"/>
+    <label for="1grammar_scoreStars" class="full" title="1 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="HalfStargrammar_score" name="grammar_score" class="half" value="1"  aria-label="Rate as grammar_scoreHalfStar"/>
+    <label for="HalfStargrammar_score" class="half" title="half star" aria-hidden="true"></label>
+</fieldset>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="form-group">
+                    <label class="bold uppercase font-blue-dark control-label col-md-4 col-lg-6 advanced-star-label" tabindex="0">Character Score</label>
+                    <div class="col-md-8 col-lg-6">
+                        
+<fieldset name="character_score" class="star-select character_score">
+    <input type="radio"  id="5character_scoreStars" name="character_score" class="full" value="10"  aria-label="Rate as 5 Stars"/>
+    <label for="5character_scoreStars" class="full" title="5 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="4AndHalfStarcharacter_score" name="character_score" class="half" value="9"  aria-label="Rate as 4 Andcharacter_scoreHalfStar"/>
+    <label for="4AndHalfStarcharacter_score" class="half" title="4and half star" aria-hidden="true"></label>
+    <input type="radio"  id="4character_scoreStars" name="character_score" class="full" value="8"  aria-label="Rate as 4 Stars"/>
+    <label for="4character_scoreStars" class="full" title="4 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="3AndHalfStarcharacter_score" name="character_score" class="half" value="7"  aria-label="Rate as 3 Andcharacter_scoreHalfStar"/>
+    <label for="3AndHalfStarcharacter_score" class="half" title="3and half star" aria-hidden="true"></label>
+    <input type="radio"  id="3character_scoreStars" name="character_score" class="full" value="6"  aria-label="Rate as 3 Stars"/>
+    <label for="3character_scoreStars" class="full" title="3 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="2AndHalfStarcharacter_score" name="character_score" class="half" value="5"  aria-label="Rate as 2 Andcharacter_scoreHalfStar"/>
+    <label for="2AndHalfStarcharacter_score" class="half" title="2and half star" aria-hidden="true"></label>
+    <input type="radio"  id="2character_scoreStars" name="character_score" class="full" value="4"  aria-label="Rate as 2 Stars"/>
+    <label for="2character_scoreStars" class="full" title="2 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="1AndHalfStarcharacter_score" name="character_score" class="half" value="3"  aria-label="Rate as 1 Andcharacter_scoreHalfStar"/>
+    <label for="1AndHalfStarcharacter_score" class="half" title="1and half star" aria-hidden="true"></label>
+    <input type="radio"  id="1character_scoreStars" name="character_score" class="full" value="2"  aria-label="Rate as 1 Stars"/>
+    <label for="1character_scoreStars" class="full" title="1 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="HalfStarcharacter_score" name="character_score" class="half" value="1"  aria-label="Rate as character_scoreHalfStar"/>
+    <label for="HalfStarcharacter_score" class="half" title="half star" aria-hidden="true"></label>
+</fieldset>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="bold uppercase font-blue-dark control-label col-md-3" for="review-content" tabindex="0">Review Content</label>
+            <div class="col-md-9">
+                <textarea id="review-content" name="review_content" rows="10"></textarea>
+            </div>
+        </div>
+        <div class="alert margin-bottom-0">
+            <div style="display: flex; justify-content: center; align-items: center;">
+                <img src="https://www.royalroadcdn.com/public/smilies/drakanglasses-AAAA_upQsww.png" alt="drakan_glasses" width="48" height="48" style="object-fit: contain; margin-right: 5px;"/>
+                <span style="flex: 1 1 auto">
+                    <strong>BE NICE!</strong> Fair critique is fair, but be respectful & follow <a class="text-info bold" href="https://www.royalroad.com/support/faq#topic-73" target="_blank">the review rules</a>. There will be no mercy.
+                </span>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="form-actions">
+        <div class="col-md-offset-3 col-md-9">
+            <button type="submit" class="btn red-sunglo">Submit</button>
+            <button type="button" class="btn btn-default cancel-button">Cancel</button>
+        </div>
+    </div>
+        <div class="fiction-ratingblocker">
+            <div class="text-center" style="padding-top: 25%">
+                <i class="fa fa-5x fa-question-circle popovers" title="Rating blocked" data-trigger="hover" data-content="Please don't rate a fiction that you haven't read yet! Instead, if you want to remember not wanting to read it, please use the Not Interested button above" data-placement="top" data-container="body"></i>
+            </div>
+        </div>
+<input name="advancedReview" type="hidden" value="false" /></form></partial>
+        </div>
+    </div>
+<!--START REVIEW PORTLET-->
+<div class="portlet light reviews">
+    <a id="reviews"></a>
+    <div class="portlet-title">
+        <div class="caption">
+            <i class="fa fa-quote-left"></i>
+            <span class="caption-subject bold uppercase font-red-sunglo">Reviews</span>
+        </div>
+        <div class="actions">
+            <form class="inline">
+                Sort by:
+                <select class="btn btn-default btn-outline btn-circle btn-sm" name="sorting">
+                    <option value="top">Top</option>
+                    <option value="newest">Newest</option>
+                    <option value="oldest">Oldest</option>
+                    <option value="upvotes">Most Upvotes</option>
+                </select>
+            </form>
+        </div>
+    </div>
+    <div class="portlet-body reviews-container">
+                <!-- START REVIEW ITEM-->
+<div class="review" id="review-554125">
+    <!--START REVIEW LEFT CONTENT-->
+    <div class="review-side">
+        <div class="avatar-container-general ">
+            <img src="https://www.royalroadcdn.com/public/avatars/avatar-91214.png?time=1613491330" data-type="avatar" onLoad="$(this).data('loaded', 1)" onError="this.onerror=null; this.src='/Content/Images/anon.jpg';" class="img-circle" alt="KoboldPatrol" ></img>
+                <div class="avatar-border dia dia-1"></div>
+                <div class="gem gem-45 dia dia-1" title="Reputation Level 45"></div>
+        </div>
+        <div class="scores">
+            <div>
+                    <div class="overall-score-container">
+                        <div aria-label="Overall Score">Overall</div>
+                        <div aria-label="3 stars">
+                            <div class="font-red-thunderbird star star-30" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Style Score">Style</div>
+                        <div aria-label="3 stars">
+                            <div class="font-red-thunderbird star star-30" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Story Score">Story</div>
+                        <div aria-label="2.5 stars">
+                            <div class="font-red-thunderbird star star-25" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Grammar Score">Grammar</div>
+                        <div aria-label="3 stars">
+                            <div class="font-red-thunderbird star star-30" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Character Score">Character</div>
+                        <div aria-label="3 stars">
+                            <div class="font-red-thunderbird star star-30" aria-hidden="true"></div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div><!--END REVIEW LEFT CONTENT-->
+    <!--START REVIEW RIGHT CONTENT-->
+    <div class="review-right-content">
+        <div class="review-header caption margin-bottom-10">
+            <div class="row no-gutters no-gutter">
+                <div class="col-xs-12" style="width: 100%; max-width: calc(100% - 0px)">
+                    <h4 class="bold font-blue-dark">Interesting premise but needs much work, too technical for now</h4>
+                </div>
+            </div>
+                <h5 class="bold font-red-sunglo">
+                    <span class="uppercase">Reviewed at:</span>
+                    <a rel="nofollow noindex" href="/fiction/chapter/421223">
+                        Chapter 23 - Beginning of a Journey
+                    </a>
+                </h5>
+            <div class="review-meta">
+                <span class="bold font-red-sunglo">
+                    <span class="uppercase">by </span><a class="small" href="/profile/91214">KoboldPatrol</a>
+                </span>
+                <span class="pull-right date bold uppercase font-red-sunglo small">
+                    <a href="?review=554125#review-554125"><time unixtime="1573218442" datetime="2019-11-08T13:07:22.0000000Z" format="U" >Friday, November 8, 2019 1:07:22 PM</time></a>
+                </span>
+            </div>
+        </div>
+            <input type="checkbox" id="rv-554125"/>
+            <div class="review-content" id="review-content-554125">
+                <p>(as of chapter 23)</p>
+<p>Like it happens to the protagonists in many other RRL stories, Mike wants to enter a groundbreaking VR game but is completely transported into a fantasy world instead. Due to dimensional travel shenanigans, the game AI is integrated into his body as a living tattoo, giving him a system interface with its own mind. He awakes as a prisoner in a nazi-elf facility, destined to be a medical research subject because of that integrated AI. Will he be able to escape before Dr Mengelelf arrives and how will he survive once outside? Come in and find out</p>
+<p>There is a big focus on the technical/LitRPG aspects. While I really like numbers and statistics, here it is excessive compared to other stories and compared to the amount of narration going on. This is the biggest fault of the story by far. Stat and skill tables should be a help to visualize and flesh out a story but they can't replace plot. The system itself is interesting with good mechanics, the author has clearly put much thought into it. The stat boxes take up a large part of the chapters, often they are posted multiple times in one chapter with only a tiny change. Not helping is their awkward formatting with needless linebreaks and lots of text in very narrow (and thus long) columns. This has been recently pointed out so it might be rectified soon, as the author asks for and listens to criticism, striving to improve (e.g. the colors of the text are still not great but they seem to be much better than what the early comments/reviews described).<br>The story is told in third-person internal style from Mike's POV. Grammar in general is okay but there are many run-on sentences. Punctuation and spelling could be better, an editor has just been announced so that might improve as well. <br>Mike is spending most of his time trying out his new skills and experimenting with the magic, while that is interesting it would be more interesting to see a story develop or a personality shown. The other characters (only two so far) have only had a tiny bit of space, they are guided by their own motivations which luckily are aligning with the MC's interests.</p>
+<p>All in all, this story has an interesting premise and the mechanics are well thought out, but the balance of the story has to be strongly shifted towards plot before this can become a great work. I'll be monitoring it.</p>
+            </div>
+            <label for="rv-554125" class="small bold uppercase"></label>
+        <!--START REVIEW FOOTER-->
+        <div class="review-footer">
+            
+            <div class="btn-group btn-group-solid margin-bottom-10">
+                <a href="/report/review/554125" class="btn red">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    Report
+                </a>
+            </div>
+                
+            <div class="btn-group btn-group-solid pull-right" style="float: right !important;">
+                <form method="post" class="inline-block review-vote-form" action="/fictions/ratereview/554125">
+                    <button class="btn blue-dark" name="up" value="true">
+                        <i class="fa fa-thumbs-up"></i> <span>24</span>
+                    </button>
+                    <button class="btn red-sunglo" name="up" value="false">
+                        <i class="fa fa-thumbs-down"></i> <span>0</span>
+                    </button>
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+            </div>
+        </div><!--END REVIEW FOOTER-->
+    </div><!--END REVIEW RIGHT CONTENT-->
+</div>
+<!--END REVIEW ITEM-->
+
+                <!-- START REVIEW ITEM-->
+<div class="review" id="review-549923">
+    <!--START REVIEW LEFT CONTENT-->
+    <div class="review-side">
+        <div class="avatar-container-general no-avatar-border">
+            <img src="https://www.royalroadcdn.com/public/avatars/avatar-72061.png" data-type="avatar" onLoad="$(this).data('loaded', 1)" onError="this.onerror=null; this.src='/Content/Images/anon.jpg';" class="img-circle" alt="Adammax" ></img>
+        </div>
+        <div class="scores">
+            <div>
+                    <div class="overall-score-container">
+                        <div aria-label="Overall Score">Overall</div>
+                        <div aria-label="2.5 stars">
+                            <div class="font-red-thunderbird star star-25" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Style Score">Style</div>
+                        <div aria-label="2.5 stars">
+                            <div class="font-red-thunderbird star star-25" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Story Score">Story</div>
+                        <div aria-label="0.5 stars">
+                            <div class="font-red-thunderbird star star-5" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Grammar Score">Grammar</div>
+                        <div aria-label="3 stars">
+                            <div class="font-red-thunderbird star star-30" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Character Score">Character</div>
+                        <div aria-label="0.5 stars">
+                            <div class="font-red-thunderbird star star-5" aria-hidden="true"></div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div><!--END REVIEW LEFT CONTENT-->
+    <!--START REVIEW RIGHT CONTENT-->
+    <div class="review-right-content">
+        <div class="review-header caption margin-bottom-10">
+            <div class="row no-gutters no-gutter">
+                <div class="col-xs-12" style="width: 100%; max-width: calc(100% - 0px)">
+                    <h4 class="bold font-blue-dark">A lot of Crunch. No story.  </h4>
+                </div>
+            </div>
+                <h5 class="bold font-red-sunglo">
+                    <span class="uppercase">Reviewed at:</span>
+                    <a rel="nofollow noindex" href="/fiction/chapter/411986">
+                        Chapter 9 - Dark Magic
+                    </a>
+                </h5>
+            <div class="review-meta">
+                <span class="bold font-red-sunglo">
+                    <span class="uppercase">by </span><a class="small" href="/profile/72061">Adammax</a>
+                </span>
+                <span class="pull-right date bold uppercase font-red-sunglo small">
+                    <a href="?review=549923#review-549923"><time unixtime="1576128850" datetime="2019-12-12T05:34:10.0000000Z" format="U" >Thursday, December 12, 2019 5:34:10 AM</time></a>
+                </span>
+            </div>
+        </div>
+            <div class="review-content" id="review-content-549923">
+                <p>This web novel has some great mechanics like other people have mentioned. It has a lot of protentional. What it lacks, is Story. I am on chapter 9 now and everything up until now has been 97% info dump 3% story. I am 9 chapters in and know nothing about the personality of the character. Extremely little has happed plot wise. There is no hook. Nothing to draw the reader in to the story. Nothing to make the reader care/interested in the character. Nothing to keep me reading. &nbsp;</p>
+            </div>
+        <!--START REVIEW FOOTER-->
+        <div class="review-footer">
+            
+            <div class="btn-group btn-group-solid margin-bottom-10">
+                <a href="/report/review/549923" class="btn red">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    Report
+                </a>
+            </div>
+                
+            <div class="btn-group btn-group-solid pull-right" style="float: right !important;">
+                <form method="post" class="inline-block review-vote-form" action="/fictions/ratereview/549923">
+                    <button class="btn blue-dark" name="up" value="true">
+                        <i class="fa fa-thumbs-up"></i> <span>32</span>
+                    </button>
+                    <button class="btn red-sunglo" name="up" value="false">
+                        <i class="fa fa-thumbs-down"></i> <span>9</span>
+                    </button>
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+            </div>
+        </div><!--END REVIEW FOOTER-->
+    </div><!--END REVIEW RIGHT CONTENT-->
+</div>
+<!--END REVIEW ITEM-->
+
+                <!-- START REVIEW ITEM-->
+<div class="review" id="review-561044">
+    <!--START REVIEW LEFT CONTENT-->
+    <div class="review-side">
+        <div class="avatar-container-general ">
+            <img src="/Content/Images/anon.jpg" data-type="avatar" onLoad="$(this).data('loaded', 1)" onError="this.onerror=null; this.src='/Content/Images/anon.jpg';" class="img-circle" alt="Rhino8000" ></img>
+                <div class="avatar-border bronze bronze-2"></div>
+                <div class="gem gem-5 bronze bronze-2" title="Reputation Level 5"></div>
+        </div>
+        <div class="scores">
+            <div>
+                    <div class="overall-score-container">
+                        <div aria-label="Overall Score">Overall</div>
+                        <div aria-label=" stars">
+                            <div class="font-red-thunderbird star star-40" aria-hidden="true"></div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div><!--END REVIEW LEFT CONTENT-->
+    <!--START REVIEW RIGHT CONTENT-->
+    <div class="review-right-content">
+        <div class="review-header caption margin-bottom-10">
+            <div class="row no-gutters no-gutter">
+                <div class="col-xs-12" style="width: 100%; max-width: calc(100% - 0px)">
+                    <h4 class="bold font-blue-dark">Interesting story lacks no polish</h4>
+                </div>
+            </div>
+                <h5 class="bold font-red-sunglo">
+                    <span class="uppercase">Reviewed at:</span>
+                    <a rel="nofollow noindex" href="/fiction/chapter/425450">
+                        Chapter 28 - Healing
+                    </a>
+                </h5>
+            <div class="review-meta">
+                <span class="bold font-red-sunglo">
+                    <span class="uppercase">by </span><a class="small" href="/profile/116277">Rhino8000</a>
+                </span>
+                <span class="pull-right date bold uppercase font-red-sunglo small">
+                    <a href="?review=561044#review-561044"><time unixtime="1578246982" datetime="2020-01-05T17:56:22.0000000Z" format="U" >Sunday, January 5, 2020 5:56:22 PM</time></a>
+                </span>
+            </div>
+        </div>
+            <input type="checkbox" id="rv-561044"/>
+            <div class="review-content" id="review-content-561044">
+                <p>I honestly do enjoy this novel, though it needs a lot of work. &nbsp;Author looked at the GameLit/LitRPG from a different perspective, which I enjoy very much. &nbsp;System makes sense. &nbsp;It's the&nbsp;writing style and the frankly middle&nbsp;school&nbsp;level grammar that really holds it back. &nbsp;However, author got someone to edit and yhe quality has risen tremendously while still remaining subpar. That doesn't stop me&nbsp;from enjoying it. &nbsp;I look past the grammatical errors (maybe it's not his first language?) &nbsp;look at the actual story, and fill in the what is lacking with imagination. &nbsp;If that's too much for you, try another book. &nbsp;If you can push through, please give it a try. &nbsp;Author is definitely humble when receiving corrections and even appreciates them so throw them out there for him.</p>
+            </div>
+            <label for="rv-561044" class="small bold uppercase"></label>
+        <!--START REVIEW FOOTER-->
+        <div class="review-footer">
+            
+            <div class="btn-group btn-group-solid margin-bottom-10">
+                <a href="/report/review/561044" class="btn red">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    Report
+                </a>
+            </div>
+            <div class="btn-group btn-group-solid pull-right" style="float: right !important;">
+                <form method="post" class="inline-block review-vote-form" action="/fictions/ratereview/561044">
+                    <button class="btn blue-dark" name="up" value="true">
+                        <i class="fa fa-thumbs-up"></i> <span>2</span>
+                    </button>
+                    <button class="btn red-sunglo" name="up" value="false">
+                        <i class="fa fa-thumbs-down"></i> <span>0</span>
+                    </button>
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+            </div>
+        </div><!--END REVIEW FOOTER-->
+    </div><!--END REVIEW RIGHT CONTENT-->
+</div>
+<!--END REVIEW ITEM-->
+
+                <!-- START REVIEW ITEM-->
+<div class="review" id="review-551431">
+    <!--START REVIEW LEFT CONTENT-->
+    <div class="review-side">
+        <div class="avatar-container-general ">
+            <img src="/Content/Images/anon.jpg" data-type="avatar" onLoad="$(this).data('loaded', 1)" onError="this.onerror=null; this.src='/Content/Images/anon.jpg';" class="img-circle" alt="mike karr" ></img>
+                <div class="avatar-border bronze bronze-5"></div>
+                <div class="gem gem-1 bronze bronze-5" title="Reputation Level 1"></div>
+        </div>
+        <div class="scores">
+            <div>
+                    <div class="overall-score-container">
+                        <div aria-label="Overall Score">Overall</div>
+                        <div aria-label=" stars">
+                            <div class="font-red-thunderbird star star-15" aria-hidden="true"></div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div><!--END REVIEW LEFT CONTENT-->
+    <!--START REVIEW RIGHT CONTENT-->
+    <div class="review-right-content">
+        <div class="review-header caption margin-bottom-10">
+            <div class="row no-gutters no-gutter">
+                <div class="col-xs-12" style="width: 100%; max-width: calc(100% - 0px)">
+                    <h4 class="bold font-blue-dark">Disappointed </h4>
+                </div>
+            </div>
+                <h5 class="bold font-red-sunglo">
+                    <span class="uppercase">Reviewed at:</span>
+                    <a rel="nofollow noindex" href="/fiction/chapter/398964">
+                        Chapter 3 - Level up! sort of&#x2026;
+                    </a>
+                </h5>
+            <div class="review-meta">
+                <span class="bold font-red-sunglo">
+                    <span class="uppercase">by </span><a class="small" href="/profile/117301">mike karr</a>
+                </span>
+                <span class="pull-right date bold uppercase font-red-sunglo small">
+                    <a href="?review=551431#review-551431"><time unixtime="1572864450" datetime="2019-11-04T10:47:30.0000000Z" format="U" >Monday, November 4, 2019 10:47:30 AM</time></a>
+                </span>
+            </div>
+        </div>
+            <div class="review-content" id="review-content-551431">
+                <p>Interesting concept, horribly flawed execution so far. I only read 6 chapters but so far nothing has happened other than the mc who randomly knows Latin for some unspecified reason</p>
+            </div>
+        <!--START REVIEW FOOTER-->
+        <div class="review-footer">
+            
+            <div class="btn-group btn-group-solid margin-bottom-10">
+                <a href="/report/review/551431" class="btn red">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    Report
+                </a>
+            </div>
+            <div class="btn-group btn-group-solid pull-right" style="float: right !important;">
+                <form method="post" class="inline-block review-vote-form" action="/fictions/ratereview/551431">
+                    <button class="btn blue-dark" name="up" value="true">
+                        <i class="fa fa-thumbs-up"></i> <span>13</span>
+                    </button>
+                    <button class="btn red-sunglo" name="up" value="false">
+                        <i class="fa fa-thumbs-down"></i> <span>7</span>
+                    </button>
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+            </div>
+        </div><!--END REVIEW FOOTER-->
+    </div><!--END REVIEW RIGHT CONTENT-->
+</div>
+<!--END REVIEW ITEM-->
+
+                <!-- START REVIEW ITEM-->
+<div class="review" id="review-550171">
+    <!--START REVIEW LEFT CONTENT-->
+    <div class="review-side">
+        <div class="avatar-container-general ">
+            <img src="https://www.royalroadcdn.com/public/avatars/avatar-23152-03012020165017.png" data-type="avatar" onLoad="$(this).data('loaded', 1)" onError="this.onerror=null; this.src='/Content/Images/anon.jpg';" class="img-circle" alt="humblepeasant" ></img>
+                <div class="avatar-border silver silver-5"></div>
+                <div class="gem gem-19 silver silver-5" title="Reputation Level 19"></div>
+        </div>
+        <div class="scores">
+            <div>
+                    <div class="overall-score-container">
+                        <div aria-label="Overall Score">Overall</div>
+                        <div aria-label=" stars">
+                            <div class="font-red-thunderbird star star-25" aria-hidden="true"></div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div><!--END REVIEW LEFT CONTENT-->
+    <!--START REVIEW RIGHT CONTENT-->
+    <div class="review-right-content">
+        <div class="review-header caption margin-bottom-10">
+            <div class="row no-gutters no-gutter">
+                <div class="col-xs-12" style="width: 100%; max-width: calc(100% - 0px)">
+                    <h4 class="bold font-blue-dark">I can&#x27;t read purple word on a black background</h4>
+                </div>
+            </div>
+                <h5 class="bold font-red-sunglo">
+                    <span class="uppercase">Reviewed at:</span>
+                    <a rel="nofollow noindex" href="/fiction/chapter/416197">
+                        Chapter 16 - Deliberation and Choice
+                    </a>
+                </h5>
+            <div class="review-meta">
+                <span class="bold font-red-sunglo">
+                    <span class="uppercase">by </span><a class="small" href="/profile/23152">humblepeasant</a>
+                </span>
+                <span class="pull-right date bold uppercase font-red-sunglo small">
+                    <a href="?review=550171#review-550171"><time unixtime="1572705168" datetime="2019-11-02T14:32:48.0000000Z" format="U" >Saturday, November 2, 2019 2:32:48 PM</time></a>
+                </span>
+            </div>
+        </div>
+            <div class="review-content" id="review-content-550171">
+                <p>I literally got headache trying to read purple colored text on a black background. And the light theme is too bright for my eye.</p>
+            </div>
+        <!--START REVIEW FOOTER-->
+        <div class="review-footer">
+            
+            <div class="btn-group btn-group-solid margin-bottom-10">
+                <a href="/report/review/550171" class="btn red">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    Report
+                </a>
+            </div>
+            <div class="btn-group btn-group-solid pull-right" style="float: right !important;">
+                <form method="post" class="inline-block review-vote-form" action="/fictions/ratereview/550171">
+                    <button class="btn blue-dark" name="up" value="true">
+                        <i class="fa fa-thumbs-up"></i> <span>11</span>
+                    </button>
+                    <button class="btn red-sunglo" name="up" value="false">
+                        <i class="fa fa-thumbs-down"></i> <span>7</span>
+                    </button>
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+            </div>
+        </div><!--END REVIEW FOOTER-->
+    </div><!--END REVIEW RIGHT CONTENT-->
+</div>
+<!--END REVIEW ITEM-->
+
+                <!-- START REVIEW ITEM-->
+<div class="review" id="review-551063">
+    <!--START REVIEW LEFT CONTENT-->
+    <div class="review-side">
+        <div class="avatar-container-general ">
+            <img src="https://www.royalroadcdn.com/public/avatars/avatar-105243.png" data-type="avatar" onLoad="$(this).data('loaded', 1)" onError="this.onerror=null; this.src='/Content/Images/anon.jpg';" class="img-circle" alt="l611" ></img>
+                <div class="avatar-border plat plat-1"></div>
+                <div class="gem gem-37 plat plat-1" title="Reputation Level 37"></div>
+        </div>
+        <div class="scores">
+            <div>
+                    <div class="overall-score-container">
+                        <div aria-label="Overall Score">Overall</div>
+                        <div aria-label=" stars">
+                            <div class="font-red-thunderbird star star-25" aria-hidden="true"></div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div><!--END REVIEW LEFT CONTENT-->
+    <!--START REVIEW RIGHT CONTENT-->
+    <div class="review-right-content">
+        <div class="review-header caption margin-bottom-10">
+            <div class="row no-gutters no-gutter">
+                <div class="col-xs-12" style="width: 100%; max-width: calc(100% - 0px)">
+                    <h4 class="bold font-blue-dark">boring</h4>
+                </div>
+            </div>
+                <h5 class="bold font-red-sunglo">
+                    <span class="uppercase">Reviewed at:</span>
+                    <a rel="nofollow noindex" href="/fiction/chapter/399268">
+                        Chapter 4 - Quest: Escape!
+                    </a>
+                </h5>
+            <div class="review-meta">
+                <span class="bold font-red-sunglo">
+                    <span class="uppercase">by </span><a class="small" href="/profile/105243">l611</a>
+                </span>
+                <span class="pull-right date bold uppercase font-red-sunglo small">
+                    <a href="?review=551063#review-551063"><time unixtime="1572814799" datetime="2019-11-03T20:59:59.0000000Z" format="U" >Sunday, November 3, 2019 8:59:59 PM</time></a>
+                </span>
+            </div>
+        </div>
+            <div class="review-content" id="review-content-551063">
+                <p>The main problem with this story is that, it doesn't know its audience. its rrl so a) if you are not writing a masterpiece then its better for it to be fastpaced and b) we know what the system is, we know what str etc is.&nbsp; the minute changes that you might have to their definitions come after the plot is set rolling.&nbsp;<br>I read 5 chapters, but was bored to read any further.&nbsp;&nbsp;</p>
+            </div>
+        <!--START REVIEW FOOTER-->
+        <div class="review-footer">
+            
+            <div class="btn-group btn-group-solid margin-bottom-10">
+                <a href="/report/review/551063" class="btn red">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    Report
+                </a>
+            </div>
+            <div class="btn-group btn-group-solid pull-right" style="float: right !important;">
+                <form method="post" class="inline-block review-vote-form" action="/fictions/ratereview/551063">
+                    <button class="btn blue-dark" name="up" value="true">
+                        <i class="fa fa-thumbs-up"></i> <span>13</span>
+                    </button>
+                    <button class="btn red-sunglo" name="up" value="false">
+                        <i class="fa fa-thumbs-down"></i> <span>9</span>
+                    </button>
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+            </div>
+        </div><!--END REVIEW FOOTER-->
+    </div><!--END REVIEW RIGHT CONTENT-->
+</div>
+<!--END REVIEW ITEM-->
+
+                <!-- START REVIEW ITEM-->
+<div class="review" id="review-545756">
+    <!--START REVIEW LEFT CONTENT-->
+    <div class="review-side">
+        <div class="avatar-container-general ">
+            <img src="/Content/Images/anon.jpg" data-type="avatar" onLoad="$(this).data('loaded', 1)" onError="this.onerror=null; this.src='/Content/Images/anon.jpg';" class="img-circle" alt="RoRl62" ></img>
+                <div class="avatar-border bronze bronze-3"></div>
+                <div class="gem gem-9 bronze bronze-3" title="Reputation Level 9"></div>
+        </div>
+        <div class="scores">
+            <div>
+                    <div class="overall-score-container">
+                        <div aria-label="Overall Score">Overall</div>
+                        <div aria-label="5 stars">
+                            <div class="font-red-thunderbird star star-40" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Style Score">Style</div>
+                        <div aria-label="5 stars">
+                            <div class="font-red-thunderbird star star-50" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Story Score">Story</div>
+                        <div aria-label="4 stars">
+                            <div class="font-red-thunderbird star star-40" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Grammar Score">Grammar</div>
+                        <div aria-label="4 stars">
+                            <div class="font-red-thunderbird star star-40" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Character Score">Character</div>
+                        <div aria-label="3.5 stars">
+                            <div class="font-red-thunderbird star star-35" aria-hidden="true"></div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div><!--END REVIEW LEFT CONTENT-->
+    <!--START REVIEW RIGHT CONTENT-->
+    <div class="review-right-content">
+        <div class="review-header caption margin-bottom-10">
+            <div class="row no-gutters no-gutter">
+                <div class="col-xs-12" style="width: 100%; max-width: calc(100% - 0px)">
+                    <h4 class="bold font-blue-dark">Needs More Attention</h4>
+                </div>
+            </div>
+                <h5 class="bold font-red-sunglo">
+                    <span class="uppercase">Reviewed at:</span>
+                    <a rel="nofollow noindex" href="/fiction/chapter/417470">
+                        Chapter 18 - Crosse
+                    </a>
+                </h5>
+            <div class="review-meta">
+                <span class="bold font-red-sunglo">
+                    <span class="uppercase">by </span><a class="small" href="/profile/136628">RoRl62</a>
+                </span>
+                <span class="pull-right date bold uppercase font-red-sunglo small">
+                    <a href="?review=545756#review-545756"><time unixtime="1572560408" datetime="2019-10-31T22:20:08.0000000Z" format="U" >Thursday, October 31, 2019 10:20:08 PM</time></a>
+                </span>
+            </div>
+        </div>
+            <div class="review-content" id="review-content-545756">
+                <p>It seems to be very mechanic focused at this point in the story. Very interesting magic and leveling system. If you like Delve, then this scratches the same itch. Unfortunately, there's not much story available at the time of writing, and the author is still trying to figure his magic system out. Something about it seems to change every chapter. To the author's credit, he does go back to edit previous chapters with the changes included, so it's not that big of a problem for newer readers.</p>
+            </div>
+        <!--START REVIEW FOOTER-->
+        <div class="review-footer">
+            
+            <div class="btn-group btn-group-solid margin-bottom-10">
+                <a href="/report/review/545756" class="btn red">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    Report
+                </a>
+            </div>
+                
+            <div class="btn-group btn-group-solid pull-right" style="float: right !important;">
+                <form method="post" class="inline-block review-vote-form" action="/fictions/ratereview/545756">
+                    <button class="btn blue-dark" name="up" value="true">
+                        <i class="fa fa-thumbs-up"></i> <span>9</span>
+                    </button>
+                    <button class="btn red-sunglo" name="up" value="false">
+                        <i class="fa fa-thumbs-down"></i> <span>8</span>
+                    </button>
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+            </div>
+        </div><!--END REVIEW FOOTER-->
+    </div><!--END REVIEW RIGHT CONTENT-->
+</div>
+<!--END REVIEW ITEM-->
+
+                <!-- START REVIEW ITEM-->
+<div class="review" id="review-530519">
+    <!--START REVIEW LEFT CONTENT-->
+    <div class="review-side">
+        <div class="avatar-container-general ">
+            <img src="https://www.royalroadcdn.com/public/avatars/avatar-91300.png?time=1610175405" data-type="avatar" onLoad="$(this).data('loaded', 1)" onError="this.onerror=null; this.src='/Content/Images/anon.jpg';" class="img-circle" alt="Chroma" ></img>
+                <div class="avatar-border Border-Phoenix"></div>
+                <div class="gem gem-14 Border-Phoenix" title="Reputation Level 14"></div>
+        </div>
+        <div class="scores">
+            <div>
+                    <div class="overall-score-container">
+                        <div aria-label="Overall Score">Overall</div>
+                        <div aria-label=" stars">
+                            <div class="font-red-thunderbird star star-50" aria-hidden="true"></div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div><!--END REVIEW LEFT CONTENT-->
+    <!--START REVIEW RIGHT CONTENT-->
+    <div class="review-right-content">
+        <div class="review-header caption margin-bottom-10">
+            <div class="row no-gutters no-gutter">
+                <div class="col-xs-12" style="width: 100%; max-width: calc(100% - 0px)">
+                    <h4 class="bold font-blue-dark">Great job so far!</h4>
+                </div>
+            </div>
+                <h5 class="bold font-red-sunglo">
+                    <span class="uppercase">Reviewed at:</span>
+                    <a rel="nofollow noindex" href="/fiction/chapter/408869">
+                        Chapter 6 - Level Up! For real!
+                    </a>
+                </h5>
+            <div class="review-meta">
+                <span class="bold font-red-sunglo">
+                    <span class="uppercase">by </span><a class="small" href="/profile/91300">Chroma</a>
+                </span>
+                <span class="pull-right date bold uppercase font-red-sunglo small">
+                    <a href="?review=530519#review-530519"><time unixtime="1569947228" datetime="2019-10-01T16:27:08.0000000Z" format="U" >Tuesday, October 1, 2019 4:27:08 PM</time></a>
+                </span>
+            </div>
+        </div>
+            <div class="review-content" id="review-content-530519">
+                <p>I feel obligated to reveiw this story as no one has done so already so I'll keep it short and sweet. I LOVE this WN as of chapter 6, the only thing that could be improved from my errorblind mind would be the update speed/consistency. (I'm sure there are a couple other things that could be improved but my mind has trouble picking them out when I'm enjoying a story)</p>
+            </div>
+        <!--START REVIEW FOOTER-->
+        <div class="review-footer">
+            
+            <div class="btn-group btn-group-solid margin-bottom-10">
+                <a href="/report/review/530519" class="btn red">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    Report
+                </a>
+            </div>
+            <div class="btn-group btn-group-solid pull-right" style="float: right !important;">
+                <form method="post" class="inline-block review-vote-form" action="/fictions/ratereview/530519">
+                    <button class="btn blue-dark" name="up" value="true">
+                        <i class="fa fa-thumbs-up"></i> <span>10</span>
+                    </button>
+                    <button class="btn red-sunglo" name="up" value="false">
+                        <i class="fa fa-thumbs-down"></i> <span>10</span>
+                    </button>
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+            </div>
+        </div><!--END REVIEW FOOTER-->
+    </div><!--END REVIEW RIGHT CONTENT-->
+</div>
+<!--END REVIEW ITEM-->
+
+                <!-- START REVIEW ITEM-->
+<div class="review" id="review-537589">
+    <!--START REVIEW LEFT CONTENT-->
+    <div class="review-side">
+        <div class="avatar-container-general ">
+            <img src="https://www.royalroadcdn.com/public/avatars/avatar-33712-11042020173546.png" data-type="avatar" onLoad="$(this).data('loaded', 1)" onError="this.onerror=null; this.src='/Content/Images/anon.jpg';" class="img-circle" alt="Wispy Jellyfish" ></img>
+                <div class="avatar-border bronze bronze-5"></div>
+                <div class="gem gem-0 bronze bronze-5" title="Reputation Level 0"></div>
+        </div>
+        <div class="scores">
+            <div>
+                    <div class="overall-score-container">
+                        <div aria-label="Overall Score">Overall</div>
+                        <div aria-label=" stars">
+                            <div class="font-red-thunderbird star star-50" aria-hidden="true"></div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div><!--END REVIEW LEFT CONTENT-->
+    <!--START REVIEW RIGHT CONTENT-->
+    <div class="review-right-content">
+        <div class="review-header caption margin-bottom-10">
+            <div class="row no-gutters no-gutter">
+                <div class="col-xs-12" style="width: 100%; max-width: calc(100% - 0px)">
+                    <h4 class="bold font-blue-dark">Don&#x2019;t sleep on this story!</h4>
+                </div>
+            </div>
+                <h5 class="bold font-red-sunglo">
+                    <span class="uppercase">Reviewed at:</span>
+                    <a rel="nofollow noindex" href="/fiction/chapter/411986">
+                        Chapter 9 - Dark Magic
+                    </a>
+                </h5>
+            <div class="review-meta">
+                <span class="bold font-red-sunglo">
+                    <span class="uppercase">by </span><a class="small" href="/profile/33712">Wispy Jellyfish</a>
+                </span>
+                <span class="pull-right date bold uppercase font-red-sunglo small">
+                    <a href="?review=537589#review-537589"><time unixtime="1570918135" datetime="2019-10-12T22:08:55.0000000Z" format="U" >Saturday, October 12, 2019 10:08:55 PM</time></a>
+                </span>
+            </div>
+        </div>
+            <div class="review-content" id="review-content-537589">
+                <p>Definitely worth taking a shot at reading this story! It’s well written, has unique mechanics and premises and even as of chapter 9 I can’t wait to see what happens next. Well worth the time to read it!</p>
+            </div>
+        <!--START REVIEW FOOTER-->
+        <div class="review-footer">
+            
+            <div class="btn-group btn-group-solid margin-bottom-10">
+                <a href="/report/review/537589" class="btn red">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    Report
+                </a>
+            </div>
+            <div class="btn-group btn-group-solid pull-right" style="float: right !important;">
+                <form method="post" class="inline-block review-vote-form" action="/fictions/ratereview/537589">
+                    <button class="btn blue-dark" name="up" value="true">
+                        <i class="fa fa-thumbs-up"></i> <span>10</span>
+                    </button>
+                    <button class="btn red-sunglo" name="up" value="false">
+                        <i class="fa fa-thumbs-down"></i> <span>11</span>
+                    </button>
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+            </div>
+        </div><!--END REVIEW FOOTER-->
+    </div><!--END REVIEW RIGHT CONTENT-->
+</div>
+<!--END REVIEW ITEM-->
+
+                <!-- START REVIEW ITEM-->
+<div class="review" id="review-549963">
+    <!--START REVIEW LEFT CONTENT-->
+    <div class="review-side">
+        <div class="avatar-container-general ">
+            <img src="/Content/Images/anon.jpg" data-type="avatar" onLoad="$(this).data('loaded', 1)" onError="this.onerror=null; this.src='/Content/Images/anon.jpg';" class="img-circle" alt="Sauce" ></img>
+                <div class="avatar-border bronze bronze-3"></div>
+                <div class="gem gem-2 bronze bronze-3" title="Reputation Level 2"></div>
+        </div>
+        <div class="scores">
+            <div>
+                    <div class="overall-score-container">
+                        <div aria-label="Overall Score">Overall</div>
+                        <div aria-label="5 stars">
+                            <div class="font-red-thunderbird star star-50" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Style Score">Style</div>
+                        <div aria-label="5 stars">
+                            <div class="font-red-thunderbird star star-50" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Story Score">Story</div>
+                        <div aria-label="5 stars">
+                            <div class="font-red-thunderbird star star-50" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Grammar Score">Grammar</div>
+                        <div aria-label="3.5 stars">
+                            <div class="font-red-thunderbird star star-35" aria-hidden="true"></div>
+                        </div>
+                    </div>
+                    <div class="advanced-score">
+                        <div aria-label="Character Score">Character</div>
+                        <div aria-label="4.5 stars">
+                            <div class="font-red-thunderbird star star-45" aria-hidden="true"></div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div><!--END REVIEW LEFT CONTENT-->
+    <!--START REVIEW RIGHT CONTENT-->
+    <div class="review-right-content">
+        <div class="review-header caption margin-bottom-10">
+            <div class="row no-gutters no-gutter">
+                <div class="col-xs-12" style="width: 100%; max-width: calc(100% - 0px)">
+                    <h4 class="bold font-blue-dark">Exactly what i&#x27;ve been looking for.</h4>
+                </div>
+            </div>
+                <h5 class="bold font-red-sunglo">
+                    <span class="uppercase">Reviewed at:</span>
+                    <a rel="nofollow noindex" href="/fiction/chapter/418985">
+                        Chapter 20 - Arcane Intuition
+                    </a>
+                </h5>
+            <div class="review-meta">
+                <span class="bold font-red-sunglo">
+                    <span class="uppercase">by </span><a class="small" href="/profile/124216">Sauce</a>
+                </span>
+                <span class="pull-right date bold uppercase font-red-sunglo small">
+                    <a href="?review=549963#review-549963"><time unixtime="1573022830" datetime="2019-11-06T06:47:10.0000000Z" format="U" >Wednesday, November 6, 2019 6:47:10 AM</time></a>
+                </span>
+            </div>
+        </div>
+            <input type="checkbox" id="rv-549963"/>
+            <div class="review-content" id="review-content-549963">
+                <p>I'm probably a bit biased because&nbsp;I am the editor, so I know a tad bit more than is released right now, but I really like where things have gone. People say it's very exposition-y or crunchy, but thats just because were setting up a whole new system that I've never seen before. The way it works is truly realistic, an AI would absolutely make sure the inhabitant is prepared for its life with the system. The system itself is also really well written, and this style of story is something I've never seen before, and has been always what I've been looking for in a litRPG. The characters as they are, are a bit bland, but they do become much more fleshed out very soon. The story itself is very interesting so far. I give grammar a 3.5 rating because I'm not finished editing all the currently posted chapters yet :P</p>
+            </div>
+            <label for="rv-549963" class="small bold uppercase"></label>
+        <!--START REVIEW FOOTER-->
+        <div class="review-footer">
+            
+            <div class="btn-group btn-group-solid margin-bottom-10">
+                <a href="/report/review/549963" class="btn red">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    Report
+                </a>
+            </div>
+                
+            <div class="btn-group btn-group-solid pull-right" style="float: right !important;">
+                <form method="post" class="inline-block review-vote-form" action="/fictions/ratereview/549963">
+                    <button class="btn blue-dark" name="up" value="true">
+                        <i class="fa fa-thumbs-up"></i> <span>8</span>
+                    </button>
+                    <button class="btn red-sunglo" name="up" value="false">
+                        <i class="fa fa-thumbs-down"></i> <span>9</span>
+                    </button>
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" /></form>
+            </div>
+        </div><!--END REVIEW FOOTER-->
+    </div><!--END REVIEW RIGHT CONTENT-->
+</div>
+<!--END REVIEW ITEM-->
+
+        <div class=text-center><ul class='pagination justify-content-center'><li class="page-active"><a data-page='1' href="/fiction/26899/discovering-magic?reviews=1">1</a></li><li ><a data-page='2' href="/fiction/26899/discovering-magic?reviews=2">2</a></li><li><a data-page='2' href="/fiction/26899/discovering-magic?reviews=2">Last &raquo;</a></li></ul></div>
+    </div><!--END REVIEW PORTLET-->
+</div><!--END MAIN CONTENT-->
+</div>
+</div>
+</div>
+</div>
+</div>
+
+    <div class="modal fade" id="postReviewModal" tabindex="-1" role="dialog" aria-labelledby="postReviewModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="postReviewModalLabel">Post Review</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-info">
+                        Please consider giving more feedback so the author and other readers may know why you gave the rating!
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12 col-12">
+                            
+<form method="POST" action="/fictions/review/26899" role="form" class="form-horizontal form-bordered" id="modal-review-form" style="position: relative">
+    <input name="__RequestVerificationToken" type="hidden" value="CfDJ8H5DJytjSipDgbITx8p1xEAzQIjnEjDDuA2ck2-tNgTsb89Sbicfs_vf0Uwfb6oKLykyjP_WcUcjbqMEhptCT3GlaA_QySzLojLq2UsgvADluVkrd5MHpXWj3KWT2ckyU0975TzuCXDSBMa7dn23Q8E" />
+    <div class="form-body">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="form-group">
+                    <label class="bold uppercase font-blue-dark control-label col-md-3">Review title</label>
+                    <div class="col-md-9">
+                        <input type="text" maxlength="50" name="title" class="form-control"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row no-gutter">
+            <div class="col-sm-6">
+                <div class="form-group">
+                    <label class="bold uppercase font-blue-dark control-label col-md-4 col-lg-6" tabindex="0">Overall Score</label>
+                    <div class="col-md-8 col-lg-6 overall-score-star-select-main">
+                        
+<fieldset name="overall_score" class="star-select overall_score">
+    <input type="radio" required id="modal-5overall_scoreStars" name="overall_score" class="full" value="10"  aria-label="Rate as 5 Stars"/>
+    <label for="modal-5overall_scoreStars" class="full" title="5 Stars" aria-hidden="true"></label>
+    <input type="radio" required id="modal-4AndHalfStaroverall_score" name="overall_score" class="half" value="9"  aria-label="Rate as 4 Andoverall_scoreHalfStar"/>
+    <label for="modal-4AndHalfStaroverall_score" class="half" title="4and half star" aria-hidden="true"></label>
+    <input type="radio" required id="modal-4overall_scoreStars" name="overall_score" class="full" value="8"  aria-label="Rate as 4 Stars"/>
+    <label for="modal-4overall_scoreStars" class="full" title="4 Stars" aria-hidden="true"></label>
+    <input type="radio" required id="modal-3AndHalfStaroverall_score" name="overall_score" class="half" value="7"  aria-label="Rate as 3 Andoverall_scoreHalfStar"/>
+    <label for="modal-3AndHalfStaroverall_score" class="half" title="3and half star" aria-hidden="true"></label>
+    <input type="radio" required id="modal-3overall_scoreStars" name="overall_score" class="full" value="6"  aria-label="Rate as 3 Stars"/>
+    <label for="modal-3overall_scoreStars" class="full" title="3 Stars" aria-hidden="true"></label>
+    <input type="radio" required id="modal-2AndHalfStaroverall_score" name="overall_score" class="half" value="5"  aria-label="Rate as 2 Andoverall_scoreHalfStar"/>
+    <label for="modal-2AndHalfStaroverall_score" class="half" title="2and half star" aria-hidden="true"></label>
+    <input type="radio" required id="modal-2overall_scoreStars" name="overall_score" class="full" value="4"  aria-label="Rate as 2 Stars"/>
+    <label for="modal-2overall_scoreStars" class="full" title="2 Stars" aria-hidden="true"></label>
+    <input type="radio" required id="modal-1AndHalfStaroverall_score" name="overall_score" class="half" value="3"  aria-label="Rate as 1 Andoverall_scoreHalfStar"/>
+    <label for="modal-1AndHalfStaroverall_score" class="half" title="1and half star" aria-hidden="true"></label>
+    <input type="radio" required id="modal-1overall_scoreStars" name="overall_score" class="full" value="2"  aria-label="Rate as 1 Stars"/>
+    <label for="modal-1overall_scoreStars" class="full" title="1 Stars" aria-hidden="true"></label>
+    <input type="radio" required id="modal-HalfStaroverall_score" name="overall_score" class="half" value="1"  aria-label="Rate as overall_scoreHalfStar"/>
+    <label for="modal-HalfStaroverall_score" class="half" title="half star" aria-hidden="true"></label>
+</fieldset>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="form-group">
+                    <label class="bold uppercase font-blue-dark control-label col-md-6" for="modal-advancedReview">Advanced Review</label>
+                    <div class="col-md-6">
+                        <label class="mt-checkbox">
+                            <input id="modal-advancedReview" name="advancedReview" type="checkbox" value="true" />
+                            <span></span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row no-gutter adv-score">
+            <div class="col-sm-6">
+                <div class="form-group">
+                    <label class="bold uppercase font-blue-dark control-label col-md-4 col-lg-6 advanced-star-label" tabindex="0">Style Score</label>
+                    <div class="col-md-8 col-lg-6">
+                        
+<fieldset name="style_score" class="star-select style_score">
+    <input type="radio"  id="modal-5style_scoreStars" name="style_score" class="full" value="10"  aria-label="Rate as 5 Stars"/>
+    <label for="modal-5style_scoreStars" class="full" title="5 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="modal-4AndHalfStarstyle_score" name="style_score" class="half" value="9"  aria-label="Rate as 4 Andstyle_scoreHalfStar"/>
+    <label for="modal-4AndHalfStarstyle_score" class="half" title="4and half star" aria-hidden="true"></label>
+    <input type="radio"  id="modal-4style_scoreStars" name="style_score" class="full" value="8"  aria-label="Rate as 4 Stars"/>
+    <label for="modal-4style_scoreStars" class="full" title="4 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="modal-3AndHalfStarstyle_score" name="style_score" class="half" value="7"  aria-label="Rate as 3 Andstyle_scoreHalfStar"/>
+    <label for="modal-3AndHalfStarstyle_score" class="half" title="3and half star" aria-hidden="true"></label>
+    <input type="radio"  id="modal-3style_scoreStars" name="style_score" class="full" value="6"  aria-label="Rate as 3 Stars"/>
+    <label for="modal-3style_scoreStars" class="full" title="3 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="modal-2AndHalfStarstyle_score" name="style_score" class="half" value="5"  aria-label="Rate as 2 Andstyle_scoreHalfStar"/>
+    <label for="modal-2AndHalfStarstyle_score" class="half" title="2and half star" aria-hidden="true"></label>
+    <input type="radio"  id="modal-2style_scoreStars" name="style_score" class="full" value="4"  aria-label="Rate as 2 Stars"/>
+    <label for="modal-2style_scoreStars" class="full" title="2 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="modal-1AndHalfStarstyle_score" name="style_score" class="half" value="3"  aria-label="Rate as 1 Andstyle_scoreHalfStar"/>
+    <label for="modal-1AndHalfStarstyle_score" class="half" title="1and half star" aria-hidden="true"></label>
+    <input type="radio"  id="modal-1style_scoreStars" name="style_score" class="full" value="2"  aria-label="Rate as 1 Stars"/>
+    <label for="modal-1style_scoreStars" class="full" title="1 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="modal-HalfStarstyle_score" name="style_score" class="half" value="1"  aria-label="Rate as style_scoreHalfStar"/>
+    <label for="modal-HalfStarstyle_score" class="half" title="half star" aria-hidden="true"></label>
+</fieldset>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="form-group">
+                    <label class="bold uppercase font-blue-dark control-label col-md-4 col-lg-6 advanced-star-label" tabindex="0">Story Score</label>
+                    <div class="col-md-8 col-lg-6">
+                        
+<fieldset name="story_score" class="star-select story_score">
+    <input type="radio"  id="modal-5story_scoreStars" name="story_score" class="full" value="10"  aria-label="Rate as 5 Stars"/>
+    <label for="modal-5story_scoreStars" class="full" title="5 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="modal-4AndHalfStarstory_score" name="story_score" class="half" value="9"  aria-label="Rate as 4 Andstory_scoreHalfStar"/>
+    <label for="modal-4AndHalfStarstory_score" class="half" title="4and half star" aria-hidden="true"></label>
+    <input type="radio"  id="modal-4story_scoreStars" name="story_score" class="full" value="8"  aria-label="Rate as 4 Stars"/>
+    <label for="modal-4story_scoreStars" class="full" title="4 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="modal-3AndHalfStarstory_score" name="story_score" class="half" value="7"  aria-label="Rate as 3 Andstory_scoreHalfStar"/>
+    <label for="modal-3AndHalfStarstory_score" class="half" title="3and half star" aria-hidden="true"></label>
+    <input type="radio"  id="modal-3story_scoreStars" name="story_score" class="full" value="6"  aria-label="Rate as 3 Stars"/>
+    <label for="modal-3story_scoreStars" class="full" title="3 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="modal-2AndHalfStarstory_score" name="story_score" class="half" value="5"  aria-label="Rate as 2 Andstory_scoreHalfStar"/>
+    <label for="modal-2AndHalfStarstory_score" class="half" title="2and half star" aria-hidden="true"></label>
+    <input type="radio"  id="modal-2story_scoreStars" name="story_score" class="full" value="4"  aria-label="Rate as 2 Stars"/>
+    <label for="modal-2story_scoreStars" class="full" title="2 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="modal-1AndHalfStarstory_score" name="story_score" class="half" value="3"  aria-label="Rate as 1 Andstory_scoreHalfStar"/>
+    <label for="modal-1AndHalfStarstory_score" class="half" title="1and half star" aria-hidden="true"></label>
+    <input type="radio"  id="modal-1story_scoreStars" name="story_score" class="full" value="2"  aria-label="Rate as 1 Stars"/>
+    <label for="modal-1story_scoreStars" class="full" title="1 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="modal-HalfStarstory_score" name="story_score" class="half" value="1"  aria-label="Rate as story_scoreHalfStar"/>
+    <label for="modal-HalfStarstory_score" class="half" title="half star" aria-hidden="true"></label>
+</fieldset>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row no-gutter adv-score">
+            <div class="col-sm-6">
+                <div class="form-group">
+                    <label class="bold uppercase font-blue-dark control-label col-md-4 col-lg-6 advanced-star-label" tabindex="0">Grammar Score</label>
+                    <div class="col-md-8 col-lg-6">
+                        
+<fieldset name="grammar_score" class="star-select grammar_score">
+    <input type="radio"  id="modal-5grammar_scoreStars" name="grammar_score" class="full" value="10"  aria-label="Rate as 5 Stars"/>
+    <label for="modal-5grammar_scoreStars" class="full" title="5 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="modal-4AndHalfStargrammar_score" name="grammar_score" class="half" value="9"  aria-label="Rate as 4 Andgrammar_scoreHalfStar"/>
+    <label for="modal-4AndHalfStargrammar_score" class="half" title="4and half star" aria-hidden="true"></label>
+    <input type="radio"  id="modal-4grammar_scoreStars" name="grammar_score" class="full" value="8"  aria-label="Rate as 4 Stars"/>
+    <label for="modal-4grammar_scoreStars" class="full" title="4 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="modal-3AndHalfStargrammar_score" name="grammar_score" class="half" value="7"  aria-label="Rate as 3 Andgrammar_scoreHalfStar"/>
+    <label for="modal-3AndHalfStargrammar_score" class="half" title="3and half star" aria-hidden="true"></label>
+    <input type="radio"  id="modal-3grammar_scoreStars" name="grammar_score" class="full" value="6"  aria-label="Rate as 3 Stars"/>
+    <label for="modal-3grammar_scoreStars" class="full" title="3 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="modal-2AndHalfStargrammar_score" name="grammar_score" class="half" value="5"  aria-label="Rate as 2 Andgrammar_scoreHalfStar"/>
+    <label for="modal-2AndHalfStargrammar_score" class="half" title="2and half star" aria-hidden="true"></label>
+    <input type="radio"  id="modal-2grammar_scoreStars" name="grammar_score" class="full" value="4"  aria-label="Rate as 2 Stars"/>
+    <label for="modal-2grammar_scoreStars" class="full" title="2 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="modal-1AndHalfStargrammar_score" name="grammar_score" class="half" value="3"  aria-label="Rate as 1 Andgrammar_scoreHalfStar"/>
+    <label for="modal-1AndHalfStargrammar_score" class="half" title="1and half star" aria-hidden="true"></label>
+    <input type="radio"  id="modal-1grammar_scoreStars" name="grammar_score" class="full" value="2"  aria-label="Rate as 1 Stars"/>
+    <label for="modal-1grammar_scoreStars" class="full" title="1 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="modal-HalfStargrammar_score" name="grammar_score" class="half" value="1"  aria-label="Rate as grammar_scoreHalfStar"/>
+    <label for="modal-HalfStargrammar_score" class="half" title="half star" aria-hidden="true"></label>
+</fieldset>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="form-group">
+                    <label class="bold uppercase font-blue-dark control-label col-md-4 col-lg-6 advanced-star-label" tabindex="0">Character Score</label>
+                    <div class="col-md-8 col-lg-6">
+                        
+<fieldset name="modal-character_score" class="star-select modal-character_score">
+    <input type="radio"  id="5modal-character_scoreStars" name="modal-character_score" class="full" value="10"  aria-label="Rate as 5 Stars"/>
+    <label for="5modal-character_scoreStars" class="full" title="5 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="4AndHalfStarmodal-character_score" name="modal-character_score" class="half" value="9"  aria-label="Rate as 4 Andmodal-character_scoreHalfStar"/>
+    <label for="4AndHalfStarmodal-character_score" class="half" title="4and half star" aria-hidden="true"></label>
+    <input type="radio"  id="4modal-character_scoreStars" name="modal-character_score" class="full" value="8"  aria-label="Rate as 4 Stars"/>
+    <label for="4modal-character_scoreStars" class="full" title="4 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="3AndHalfStarmodal-character_score" name="modal-character_score" class="half" value="7"  aria-label="Rate as 3 Andmodal-character_scoreHalfStar"/>
+    <label for="3AndHalfStarmodal-character_score" class="half" title="3and half star" aria-hidden="true"></label>
+    <input type="radio"  id="3modal-character_scoreStars" name="modal-character_score" class="full" value="6"  aria-label="Rate as 3 Stars"/>
+    <label for="3modal-character_scoreStars" class="full" title="3 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="2AndHalfStarmodal-character_score" name="modal-character_score" class="half" value="5"  aria-label="Rate as 2 Andmodal-character_scoreHalfStar"/>
+    <label for="2AndHalfStarmodal-character_score" class="half" title="2and half star" aria-hidden="true"></label>
+    <input type="radio"  id="2modal-character_scoreStars" name="modal-character_score" class="full" value="4"  aria-label="Rate as 2 Stars"/>
+    <label for="2modal-character_scoreStars" class="full" title="2 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="1AndHalfStarmodal-character_score" name="modal-character_score" class="half" value="3"  aria-label="Rate as 1 Andmodal-character_scoreHalfStar"/>
+    <label for="1AndHalfStarmodal-character_score" class="half" title="1and half star" aria-hidden="true"></label>
+    <input type="radio"  id="1modal-character_scoreStars" name="modal-character_score" class="full" value="2"  aria-label="Rate as 1 Stars"/>
+    <label for="1modal-character_scoreStars" class="full" title="1 Stars" aria-hidden="true"></label>
+    <input type="radio"  id="HalfStarmodal-character_score" name="modal-character_score" class="half" value="1"  aria-label="Rate as modal-character_scoreHalfStar"/>
+    <label for="HalfStarmodal-character_score" class="half" title="half star" aria-hidden="true"></label>
+</fieldset>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="bold uppercase font-blue-dark control-label col-md-3" for="modal-review-content" tabindex="0">Review Content</label>
+            <div class="col-md-9">
+                <textarea id="modal-review-content" name="review_content" rows="10"></textarea>
+            </div>
+        </div>
+        <div class="alert margin-bottom-0">
+            <div style="display: flex; justify-content: center; align-items: center;">
+                <img src="https://www.royalroadcdn.com/public/smilies/drakanglasses-AAAA_upQsww.png" alt="drakan_glasses" width="48" height="48" style="object-fit: contain; margin-right: 5px;"/>
+                <span style="flex: 1 1 auto">
+                    <strong>BE NICE!</strong> Fair critique is fair, but be respectful & follow <a class="text-info bold" href="https://www.royalroad.com/support/faq#topic-73" target="_blank">the review rules</a>. There will be no mercy.
+                </span>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <div class="form-actions">
+        <div class="col-md-offset-3 col-md-9">
+            <button type="submit" class="btn red-sunglo">Submit</button>
+            <button type="button" class="btn btn-default cancel-button">Cancel</button>
+        </div>
+    </div>
+        <div class="fiction-ratingblocker">
+            <div class="text-center" style="padding-top: 25%">
+                <i class="fa fa-5x fa-question-circle popovers" title="Rating blocked" data-trigger="hover" data-content="Please don't rate a fiction that you haven't read yet! Instead, if you want to remember not wanting to read it, please use the Not Interested button above" data-placement="top" data-container="body"></i>
+            </div>
+        </div>
+<input name="advancedReview" type="hidden" value="false" /></form></partial>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="page-prefooter">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-block">
+                <h2>About</h2>
+                <p> Royal Road&reg; is the home of web novels and fan fictions! In our amazing community, you can find various talented individuals who write as a hobby or even professionally, artists who create art for them, and many, many readers who provide valuable feedback and encouragement. </p>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs12 footer-block">
+                    <h2>Amazon Affiliate</h2>
+                    <div class="smalltext">
+                        Royal Road&reg; is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+                    </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-block">
+                <h2>
+                    <label for="style" style="font-weight: inherit; color: inherit">Theme Select</label>
+                </h2>
+                <div class="subscribe-form">
+                    <select name="style" id="style" class="style-select form-control">
+                        <option value="dark">Dark</option>
+                        <option value="light" selected="selected">Light</option>
+                    </select>
+                </div>
+                <br/>
+                <h2>Follow Us On</h2>
+                <ul class="social-icons">
+                    <li>
+                        <a href="https://facebook.com/royalroadl" target="_blank" rel="noopener noreferrer" data-original-title="facebook" class="facebook" aria-label="Our Facebook Page"></a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/royalroadl" target="_blank" rel="noopener noreferrer" data-original-title="twitter" class="twitter" aria-label="Our Twitter Page"></a>
+                    </li>
+                </ul>
+            </div>
+            <!--sse-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-block">
+                <h2>Need some help?</h2>
+                <div>
+                    <a href="/support">Create a support ticket</a>
+                </div>
+                <div>
+                    <span data-ccpa-link="1"></span>
+                </div>
+                <br/>
+                <div>
+                    <h2>Contact</h2>
+                    <a href="/contact">Contact Us by Email</a>
+                </div>
+                <br/>
+                <h2>Advertising</h2>
+                <div>
+                    <a href="/pages/advertising-faq">Ads for Authors</a>
+                    <br/>
+                    <a href="/cdn-cgi/l/email-protection#91e2f0fdf4e2d1f6f6e2fef7e5e6f0e3f4bff8fe">Programmatic Advertising</a>
+                </div>
+            </div>
+            <!--/sse-->
+        </div>
+    </div>
+</div>
+<!-- END PRE-FOOTER -->
+<!-- BEGIN INNER FOOTER -->
+<div class="page-footer footer">
+    <div class="container">
+        <div class="pull-left">
+            Royal Road&reg; &copy; 2013-2021, background by <a href="https://noahbradley.com/" rel="noopener noreferrer" target="_blank">Noah Bradley</a>
+        </div>
+        <div class="pull-right">
+            <a href="/tos">Terms of Service</a> |
+            <a href="https://www.iubenda.com/privacy-policy/8009648" class="iubenda-nostyle no-brand iubenda-embed" title="Privacy Policy">Privacy Policy</a> |
+            <a href="https://www.iubenda.com/privacy-policy/8009648/cookie-policy" class="iubenda-nostyle no-brand iubenda-embed " title="Cookie Policy">Cookie Policy</a> |
+            <a href="/blog">Blog</a> |
+            <a href="https://status.royalroad.com" rel="noopener noreferrer">Status</a>
+        </div>
+    </div>
+</div>
+<div class="scroll-to-top">
+    <i></i>
+</div>
+<div class="scroll-to-top-tooltip" style="display: none"> Tap again to scroll to the top! </div>
+
+
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="/dist/site.js?v=F2kG0tXLMtI6v5sxK3lEm4JlsF68qUZNAcFcKRqM3V8"></script>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+<script>
+        WebFont.load({
+            google: {
+                families: ['Ubuntu', 'Ubuntu Condensed', 'Roboto:300,400,500,600,700', 'Merriweather:300,400,500,600,700']
+            }
+        });
+    </script>
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/users/borders.css?v=3d0395f7ce38749f87b2c69eb475ab48"/>
+<script type="text/javascript">if(window.innerWidth >= 991) {window['nitroAds'].createAd('Content_Sidebar_Top_Desktop', {
+  "refreshLimit": 10,
+  "refreshTime": 30,
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "fixed-bottom-right"
+  },
+  "sizes": [
+    [
+      300,
+      250
+    ]
+  ],
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": false,
+  "acceptable": false
+});}
+if(window.innerWidth >= 991) {window['nitroAds'].createAd('Content_Sidebar_Top_Desktop', {
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "fixed-bottom-right"
+  },
+  "sizes": [
+    [
+      300,
+      250
+    ]
+  ],
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": false,
+  "acceptable": true
+});}
+if(window.innerWidth >= 991) {window['nitroAds'].createAd('Content_Sidebar_Mid_Desktop', {
+  "refreshLimit": 10,
+  "refreshTime": 30,
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "fixed-bottom-right"
+  },
+  "sizes": [
+    [
+      160,
+      600
+    ],
+    [
+      300,
+      250
+    ],
+    [
+      300,
+      600
+    ]
+  ],
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": false,
+  "acceptable": false
+});}
+if(window.innerWidth >= 991) {window['nitroAds'].createAd('Content_Sidebar_Mid_Desktop', {
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "fixed-bottom-right"
+  },
+  "sizes": [
+    [
+      160,
+      600
+    ],
+    [
+      300,
+      250
+    ],
+    [
+      300,
+      600
+    ]
+  ],
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": false,
+  "acceptable": true
+});}
+window['nitroAds'].createAd('Fiction_Mid_Desktop', {
+  "refreshLimit": 10,
+  "refreshTime": 30,
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "fixed-bottom-right"
+  },
+  "sizes": [
+    [
+      300,
+      250
+    ],
+    [
+      728,
+      90
+    ]
+  ],
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": false,
+  "acceptable": false
+});
+window['nitroAds'].createAd('Fiction_Mid_Desktop', {
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "fixed-bottom-right"
+  },
+  "sizes": [
+    [
+      300,
+      250
+    ],
+    [
+      728,
+      90
+    ]
+  ],
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": false,
+  "acceptable": true
+});
+if(window.innerWidth < 991) {window['nitroAds'].createAd('Content_Top_Mobile', {
+  "refreshLimit": 10,
+  "refreshTime": 30,
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "fixed-bottom-right"
+  },
+  "sizes": [
+    [
+      320,
+      50
+    ]
+  ],
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": false,
+  "acceptable": false
+});}
+if(window.innerWidth < 991) {window['nitroAds'].createAd('Content_Top_Mobile', {
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "fixed-bottom-right"
+  },
+  "sizes": [
+    [
+      320,
+      50
+    ]
+  ],
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": false,
+  "acceptable": true
+});}
+if(window.innerWidth < 991) {window['nitroAds'].createAd('Content_Mid_Mobile', {
+  "refreshLimit": 10,
+  "refreshTime": 30,
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "fixed-bottom-right"
+  },
+  "sizes": [
+    [
+      320,
+      50
+    ],
+    [
+      300,
+      250
+    ]
+  ],
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": false,
+  "acceptable": false
+});}
+if(window.innerWidth < 991) {window['nitroAds'].createAd('Content_Mid_Mobile', {
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "fixed-bottom-right"
+  },
+  "sizes": [
+    [
+      320,
+      50
+    ],
+    [
+      300,
+      250
+    ]
+  ],
+  "renderVisibleOnly": false,
+  "refreshVisibleOnly": false,
+  "acceptable": true
+});}
+</script>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6470e3775be05fd6',m:'6d08d7bbdd4c69eee3cba1a7516a2e709e0e1da5-1619619178-1800-AZrsquEH9VRIjctE6rYAxLLUDlNn3Nc3PpRwlnXu0GzMOu3vpRWSIDEW2SrIOozyoPCxqtC4/GNSv+mkjL6o6m1KeB0XkpMkzWZpj8LN47Wf31OviuiLBtCOfbFteXu/54aVD12RNLOJduOs6M7+ItFt3HDSWPix1IJOPEOZBafc',s:[0xe259f989ee,0x9f06ffef77],}})();</script></body>
+</html>
+<!--
+ ___               _   ___              _
+| _ \___ _  _ __ _| | | _ \___  __ _ __| |
+|   / _ \ || / _` | | |   / _ \/ _` / _` |
+|_|_\___/\_, \__,_|_| |_|_\___/\__,_\__,_|
+       |__/
+-->
